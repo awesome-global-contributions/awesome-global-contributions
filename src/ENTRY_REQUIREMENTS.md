@@ -1,4 +1,4 @@
-# Project Qualifications
+# Project Qualifications ![](https://img.shields.io/badge/status-Draft-yellow)
 
 This document outlines what projects qualify as entries.
 The goal of this list, in short, is:
@@ -60,7 +60,7 @@ disqualify a project from this list.
 
 > In open source projects, the maintainers mostly can't control
 > what other members post and this should be taken into account.
-> 
+>
 > However, the maintainers are expected to act in an adequate
 > way onto it.
 > Inaction on their part can also be enough for a disqualification.
