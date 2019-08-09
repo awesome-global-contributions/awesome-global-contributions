@@ -1,4 +1,8 @@
-# Project template
+# PROJECT TEMPLATE
+#
+# Please copy this file to <project_name>.yaml
+# Then modify the content of that file and send us a
+# Pull Request with it, thank you :)
 ---
 name: Project's name
 # The description should explain why this project is awesome.
@@ -7,8 +11,6 @@ description: >
   YAML offers several options to write multiline strings,
   Use whatever you want:
   https://yaml-multiline.info/
-globalIssues:
-  - issue1  # list of issues TBD
 # the license should be OSI approved:
 # https://opensource.org/licenses/alphabetical
 license: CC0
@@ -17,6 +19,24 @@ programmingLanguages:
   - javascript
   - c#
 repoUrl: "https://github.com/org/project/"
+# 1: No poverty
+# 2: Zero hunger
+# 3: Good health and well-being
+# 4: Quality education
+# 5: Gender equality
+# 6: Clean water and sanitation
+# 7: Affordable and clean energy
+# 8: Decent work and economic growth
+# 9: Industry, Innovation and infrastructure
+# 10: Reduced inequalities
+# 11: Sustainable cities and communinties
+# 12: Responsible consumption and production
+# 13: Climate action
+# 14: Life below water
+# 15: Life on land
+# 16: Peace, Justice and strong institutions
+# 17: Partnerships for the goals
+sdgs: [1, 3]  # list of integers, from 1 to 17
 websiteUrl: "https://project.org"
 # See guideline on how to rate a project
 rating: 1
@@ -44,7 +64,6 @@ numberContributors:
 # try to fill them out
 
 licenseUrl: "https://project.org/license/"
-sdgs: [1, 3]  # list of integers, from 1 to 17
 naturalLanguages:
   - English
   - German
