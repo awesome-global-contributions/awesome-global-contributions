@@ -1,7 +1,7 @@
 # Contribution Guideline
 
 First up, thank you for wanting to contribute to this project :).
-This document will guide you through all the steps necassary in
+This document will guide you through all the steps necessary in
 order to add your project to this list.
 If you encounter problems while doing so, please don't hesitate
 to open an issue.
@@ -27,16 +27,16 @@ This will be necessary for the pull request in the
 
 ## Second step: Add your Project details
 
-Simply copy the `Project template.yaml` into the `project` folder
+Simply copy the `Project template.YAML` into the `project` folder
 file and rename it to use the name of your project
-(e.g. `My Awesome Project.yaml`).
+(e.g. `My Awesome Project.YAML`).
 
 The single entries are further explained below.
 You can also find an [example result](#Example-based-on-this-project)
 that uses our project as a baseline.
 
 > TODO: Depends on [interface of the converter](https://github.com/awesome-global-contributions/awesome-global-contributions/issues/8)
-> 
+>
 > Will the parser also show error messages for invalid files?
 
 ### Necessary information
@@ -50,7 +50,7 @@ the project should be added to this list.
     Explain why the project is awesome and why somebody might want
     to contribute to it
 - `globalIssues`: This is a list of fitting issue, corresponding
-    with the headings of the readme.
+    with the headings of the README.
     The project will be listed under each issue.
     For a full list of issues see [\<somewhere\>]().
     > TODO: Define list of global issues
@@ -59,10 +59,10 @@ the project should be added to this list.
     the project uses.
     They have to be all lowercase and can use special characters
     (for example: `c#`, `javascript`)
-- `repoUrl`: The url to the repository of the project.
+- `repoUrl`: The URL to the repository of the project.
     This should lead you directly to the code.
-- `websiteUrl`: The url for the website of the project.
-    If it doesn't have one, simply use the readme of the project.
+- `websiteUrl`: The URL for the website of the project.
+    If it doesn't have one, simply use the README of the project.
 - `rating`: The friendliness rating of the project.
     See the [guide]() to know what number to give it.
     You should probably do this last.
@@ -76,18 +76,18 @@ Since the project may be hosted on any website, this is not always possible.
 For those from unsupported sites, you will need to fill out the
 following items:
 
-- `contributionGuidlinesUrl`: The url to the contribution guidelines
+- `contributionGuidlinesUrl`: The URL to the contribution guidelines
     of the project.
-- `logoUrl`: The url to an image file that represents the logo of the
+- `logoUrl`: The URL to an image file that represents the logo of the
     project
-- `starsUrl`: The github stars link.
+- `starsUrl`: The Github stars link.
     Currently looks like `https://img.shields.io/github/stars/org/project.svg?style=social&label=Star&maxAge=2592000`.
     Images from other websites could also be added here.
-- `numberContributors`: We regularily, automatically update the number
+- `numberContributors`: We regularly, automatically update the number
     of contributors.
     For this, you will have to provide a `url`, a `format` and a `accessor`.
-    The script will call the url and interpret the answer as either a json,
-    yaml or xml file, based on the given `format`.
+    The script will call the URL and interpret the answer as either a JSON,
+    YAML or XML file, based on the given `format`.
 
     The `accessor` defines how the script will interpret the resulting data.
     Valid values are: `list`, `number` and any string after a `?`
@@ -112,7 +112,7 @@ following items:
         format: json
         accessor: "?numberOfContributors"
     ```
-    
+
 ### Optional fields
 
 The following elements will not lead to an error when they are not present.
@@ -124,7 +124,7 @@ the necessary data.
     that can be associated with the project.
     It's a simple list of the numbers of the goals.
 - `naturalLanguages`: While the most common language for international projects
-    is english, this list hosts projects from everywhere in the world.
+    is English, this list hosts projects from everywhere in the world.
     List all languages that the project's company communicates in.
     (It's not necessary that the code is written in that language)
 
