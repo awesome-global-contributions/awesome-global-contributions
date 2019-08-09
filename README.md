@@ -32,5 +32,9 @@ Labs](https://panglosslabs.org/projects/osprojgc/).
 - [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot)
 - [Github social impact collection](https://github.com/collections/social-impact)
 - [List of Open Source projects for Global Challenges](https://panglosslabs.org/projects/osprojgc/)
+- https://sdgactionawards.org/initiatives/
+- https://open-sdg.readthedocs.io/en/latest/community/
+- https://sdgindex.org/
+- https://github.com/sdsna/2019GlobalIndex
 
 </details>
