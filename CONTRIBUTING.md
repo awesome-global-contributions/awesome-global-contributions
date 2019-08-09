@@ -17,7 +17,7 @@ Then commit all of your changes on a new branch named
 
 For this, you first have to click `fork` on the top right.
 
-![Highlighted fork button](img/contributing/how-to-fork.jpg)
+![Highlighted fork button](static/img/contributing/how-to-fork.jpg)
 
 [Then clone the repository](https://help.github.com/en/articles/cloning-a-repository)
 and finally use a [new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work)
