@@ -50,7 +50,7 @@ For example, anything that can be put into one or more
 
 ### 4. The project must treat contributors with respect
 
-OS contributors engage in good faith and in their free time.
+OSS contributors engage in good faith and in their free time.
 When choosing a project from this list, they should be able
 to expect a welcoming and positive response by the project
 itself.
@@ -72,10 +72,10 @@ a project does not have to fulfill.
 These were chosen to allow for a wide array of projects to choose
 from.
 
-### 1. There are no license restrictions
+### 1. There are specific license restrictions
 
-Any license is fair game, as long as it allows for contributions
-by other individuals.
+Any [OSI approved](https://opensource.org/licenses/alphabetical)
+license is fair game.
 
 ### 2. They don't have to be global
 
