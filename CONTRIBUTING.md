@@ -139,16 +139,14 @@ description: >
     Awesome-global-contributions list a number of
     open source projects dedicated to tackling global
     challenges and ultimately better the world.
-globalIssues:
-  - innovation
-  - partnerships for the goal
 license: CC0
 programmingLanguages:
   - markdown
   - bash
-repoUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
-websiteUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
 rating: 5
+repoUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
+sdgs: [9, 17]
+websiteUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
 
 contributionGuidelinesUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions/blob/master/CONTRIBUTING.md"
 logoUrl: ""
@@ -159,7 +157,6 @@ numberContributors:
   accessor: list
 
 licenseUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions/blob/master/LICENSE"
-sdgs: [9, 17]
 naturalLanguages:
   - English
 ```
