@@ -27,7 +27,7 @@ This will be necessary for the pull request in the
 
 ## Second step: Add your Project details
 
-Simply copy the `Project template.YAML` into the `project` folder
+Simply copy the file `src/TEMPLATE.YAML` into the `project` folder
 file and rename it to use the name of your project
 (e.g. `My Awesome Project.YAML`).
 
