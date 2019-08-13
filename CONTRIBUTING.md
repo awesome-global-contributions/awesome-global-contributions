@@ -27,9 +27,9 @@ This will be necessary for the pull request in the
 
 ## Second step: Add your Project details
 
-Simply copy the file `src/TEMPLATE.YAML` into the `project` folder
+Simply copy the file `src/TEMPLATE.yaml` into the `project` folder
 file and rename it to use the name of your project
-(e.g. `My Awesome Project.YAML`).
+(e.g. `my_awesome_project.yaml`).
 
 The single entries are further explained below.
 You can also find an [example result](#Example-based-on-this-project)
