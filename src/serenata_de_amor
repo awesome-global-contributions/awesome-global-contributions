@@ -1,0 +1,34 @@
+---
+description: >
+  Serenata compiles public information of brazilian
+  polititians and analyses it using an AI.
+  It will then also point out suspicious transactions
+  and provide statistics.
+  
+  Adaption for other countries is not planned, but
+  supported by the maintainers.
+license: MIT
+name: Serenata de amor
+programmingLanguages:
+  - python
+  - elm
+rating: 5
+repoUrl: "https://github.com/okfn-brasil/serenata-de-amor"
+sdgs: [16]
+websiteUrl: "https://serenata.ai/en/"
+
+contributionGuidelinesUrl: "https://github.com/okfn-brasil/serenata-de-amor/blob/master/CONTRIBUTING.md"
+logoUrl: "https://d33wubrfki0l68.cloudfront.net/44a83a2616e2fb7893134c5d92addc1e6d29e20e/05b5d/images/logo.png"
+starsUrl: "https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/org/proj/stats/contributors"
+  format: json
+  accessor: list
+
+# OPTIONAL FIELDS
+
+licenseUrl: "https://github.com/okfn-brasil/serenata-de-amor/blob/master/LICENSE"
+naturalLanguages:
+  - English
+  - Portuguese
