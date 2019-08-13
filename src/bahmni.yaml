@@ -1,0 +1,37 @@
+---
+# Description taken throuhg a synthesis of the github 
+# description and their FAQ
+description: >
+  Bahmi is an Open Source hospital Management System focusing
+  on poor/underserved and public hospitals in the developing
+  world.
+  It's aimed to being a generic system which can be used for
+  multiple diseases and hospitals in different countries.
+license: AGPL-3.0
+name: Bahmni
+programmingLanguages:
+  - java
+  - javascript
+  - python
+  - shell
+  - groovy
+# See guideline on how to rate a project
+rating: 5
+repoUrl: "https://github.com/Bahmni"
+sdgs: [3]
+websiteUrl: "https://www.bahmni.org/"
+
+contributionGuidelinesUrl: "https://bahmni.atlassian.net/wiki/spaces/BAH/pages/116069555/Contributing+to+Bahmni"
+logoUrl: "https://images.squarespace-cdn.com/content/54358a40e4b0d0810faf80c2/1449227490774-VM0J81B5NXHRUIGXPF5H/Bahmni+logo+black+font.png?format=1500w&content-type=image%2Fpng"
+starsUrl: "https://img.shields.io/github/stars/Bahmni/openmrs-module-bahmniapps.svg?style=social&maxAge=2592000"
+
+frameworksUsed:
+  - OpenMRS
+  - OpenERP
+  - OpenELIS
+  - Angular
+  - AWS
+  - Spring
+  - React
+  - Gauge
+licenseUrl: "https://www.gnu.org/licenses/agpl-3.0.html"
