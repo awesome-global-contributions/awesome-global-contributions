@@ -65,6 +65,8 @@ numberContributors:
 # If they fit the project, please still
 # try to fill them out
 
+frameworksUsed:
+  - Django
 licenseUrl: "https://project.org/license/"
 naturalLanguages:
   - English

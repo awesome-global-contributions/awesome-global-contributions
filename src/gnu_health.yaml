@@ -1,0 +1,31 @@
+---
+# Rewrite description with own words from preface?
+# https://en.wikibooks.org/wiki/GNU_Health/Preface
+description: >
+  GNU Health is a Free/Libre project for health practitioners, health
+  institutions and governments. It provides the functionality of Electronic
+  Medical Record (EMR), Hospital Management (HMIS) and Health Information
+  System (HIS).
+license: "GLP 3.0"
+name: GNU Health
+programmingLanguages:
+  - python
+rating: 5
+repoUrl: "http://hg.savannah.gnu.org/hgweb/health/"
+sdgs: [3]
+websiteUrl: "http://health.gnu.org/"
+
+# OVERWRITE GENERATED FIELDS
+
+contributionGuidelinesUrl: https://en.wikibooks.org/wiki/GNU_Health/Contributing
+logoUrl: "http://health.gnu.org/assets/img/isologo-gnu-health.png"
+
+# OPTIONAL FIELDS
+
+frameworksUsed:
+  - Tryton
+licenseUrl: "http://hg.savannah.gnu.org/hgweb/health/file/ea6255706780/COPYING"
+naturalLanguages:
+  - English
+  - Spanish
+  - Portuguese
