@@ -13,7 +13,7 @@ GitHub's online editor to add new projects.
 
 Therefore, you will first have to fork and clone the repository.
 Then commit all of your changes on a new branch named
-`list/<project name>`.
+`proj/<project name>`.
 
 For this, you first have to click `fork` on the top right.
 
@@ -27,7 +27,7 @@ This will be necessary for the pull request in the
 
 ## Second step: Add your Project details
 
-Simply copy the file `src/TEMPLATE.yaml` into the `project` folder
+Simply copy the file [`TEMPLATE.yaml`](./TEMPLATE.yaml) into the `project` folder
 file and rename it to use the name of your project
 (e.g. `my_awesome_project.yaml`).
 
