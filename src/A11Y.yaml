@@ -1,0 +1,37 @@
+---
+# taken from their github readme
+description: >
+  This Accessibility Project is a community-driven effort to make web
+  accessibility easier by leveraging a worldwide community of developer
+  knowledge.
+license: Apache-2.0
+name: A11Y
+programmingLanguages:
+  - markdown
+  - sass
+  - yaml
+rating: 1
+repoUrl: "https://github.com/a11yproject/a11yproject.com"
+sdgs: [10]
+websiteUrl: "https://a11yproject.com/"
+
+contributionGuidelinesUrl: "https://github.com/a11yproject/a11yproject.com/\
+                            blob/gh-pages/CONTRIBUTING.md"
+# Note that the logo used is mostly an svg version
+# of this logo, but this is the best link that
+# I found.
+logoUrl: "https://a11yproject.com/img/logo.png"
+starsUrl: "https://img.shields.io/github/stars/a11yproject/a11project.com.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/a11yproject/a11project.com/stats/\
+        contributors"
+  format: json  # or yaml or xml
+  accessor: list  # or number or property name prepended by ?
+
+frameworksUsed:
+  - Jekyll
+licenseUrl: "https://github.com/a11yproject/a11yproject.com/blob/gh-pages/\
+             LICENSE-APLv2"
+naturalLanguages:
+  - English
