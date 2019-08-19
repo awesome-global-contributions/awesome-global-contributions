@@ -21,10 +21,10 @@ contributionGuidelinesUrl: "https://github.com/a11yproject/a11yproject.com/\
 # of this logo, but this is the best link that
 # I found.
 logoUrl: "https://a11yproject.com/img/logo.png"
-starsUrl: "https://img.shields.io/github/stars/a11yproject/a11project.com.svg\
+starsUrl: "https://img.shields.io/github/stars/a11yproject/a11yproject.com.svg\
            ?style=social&label=Star&maxAge=2592000"
 numberContributors:
-  url: "https://api.github.com/repos/a11yproject/a11project.com/stats/\
+  url: "https://api.github.com/repos/a11yproject/a11yproject.com/stats/\
         contributors"
   format: json  # or yaml or xml
   accessor: list  # or number or property name prepended by ?
