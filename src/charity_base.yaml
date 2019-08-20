@@ -10,7 +10,7 @@ name: CharityBase
 programmingLanguages:
   - javascript
   - python
-rating: 2
+rating: 2 # Because of the bad documentation and Contribution guide
 repoUrl: "https://github.com/charity-base?tab=repositories"
 sdgs: [17]
 websiteUrl: "https://charitybase.uk/"
