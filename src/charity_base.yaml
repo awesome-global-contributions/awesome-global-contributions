@@ -1,0 +1,36 @@
+---
+# Taken from their website's "What is CharityBase?"
+description: >
+  Charity Base is an API that aggregates data from the 168,000 charities
+  registered in England and Wales.
+# One Project is also licensed under Apache-2.0 and some don't have
+# a license
+license: MIT
+name: CharityBase
+programmingLanguages:
+  - javascript
+  - python
+rating: 2
+repoUrl: "https://github.com/charity-base?tab=repositories"
+sdgs: [17]
+websiteUrl: "https://charitybase.uk/"
+
+# Sadly really bad
+contributionGuidelinesUrl: "https://github.com/charity-base/charity-base-api/wiki/Contributing"
+logoUrl: "https://charitybase.uk/favicon.ico"
+starsUrl: "https://img.shields.io/github/stars/charity-base/charity-base-api.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/charity-base/charity-base-api/stats/contributors"
+  format: json
+  accessor: list
+
+frameworksUsed:
+  - NodeJS
+  - React
+  - GraphQL
+  - Apollo
+  - d3
+licenseUrl: "https://github.com/charity-base/charity-base-api/blob/master/LICENSE"
+naturalLanguages:
+  - English
