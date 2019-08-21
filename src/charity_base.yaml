@@ -2,7 +2,7 @@
 # Taken from their website's "What is CharityBase?"
 description: >
   Charity Base is an API that aggregates data from the 168,000 charities
-  registered in England and Wales.
+  registered in England and Wales - potentially expanding to other countries in the future.
 # One Project is also licensed under Apache-2.0 and some don't have
 # a license
 license: MIT
