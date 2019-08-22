@@ -27,7 +27,7 @@ def main():
         data = json.load(f)
 
     for sdg, projects in data.items():
-        print(f"## {sdg}")
+        print(f"## {sdg}\n")
         for p in projects:
             project = namedtuple("Project", p.keys())(*p.values())
             print(ENTRY_TEMPLATE(project))

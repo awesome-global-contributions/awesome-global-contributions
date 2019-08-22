@@ -165,7 +165,14 @@ naturalLanguages:
 
 ## Third step: Auto-Generate files
 
-> TODO: Depends on [interface of the converter](https://github.com/awesome-global-contributions/awesome-global-contributions/issues/8)
+Requirements:
+* Python 3
+* [yq](https://github.com/kislyuk/yq)
+
+Steps:
+```sh
+$ ./bin/yaml2markdown.sh
+```
 
 ## Fourth and last step: Create a pull request
 

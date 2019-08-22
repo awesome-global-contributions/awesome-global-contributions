@@ -11,7 +11,8 @@ discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awes
 and [this initial contribution from Pangloss
 Labs](https://panglosslabs.org/projects/osprojgc/).
 
-# 3
+## 3
+
 ### Bahmni
 Bahmni is an Open Source hospital Management System focusing on poor/underserved and public hospitals in the developing world. It's aimed to being a generic system which can be used for multiple diseases and hospitals in different countries.
 
@@ -26,7 +27,8 @@ GNU Health is a Free/Libre project for health practitioners, health institutions
 * license: GLP 3.0
 * [website](http://health.gnu.org/) | [repo](http://hg.savannah.gnu.org/hgweb/health/)
 
-# 10
+## 10
+
 ### A11Y
 This Accessibility Project is a community-driven effort to make web accessibility easier by leveraging a worldwide community of developer knowledge.
 
@@ -34,7 +36,8 @@ This Accessibility Project is a community-driven effort to make web accessibilit
 * license: Apache-2.0
 * [website](https://a11yproject.com/) | [repo](https://github.com/a11yproject/a11yproject.com)
 
-# 16
+## 16
+
 ### Serenata de amor
 Serenata compiles public information of Brazilian politicians and analyses it using an AI. It will then also point out suspicious transactions and provide statistics.
 Adaption for other countries is not planned, but supported by the maintainers.
