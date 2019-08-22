@@ -1,35 +1,4 @@
 {
-  "1": [
-    {
-      "description": "YAML offers several options to write multiline strings, Use whatever you want: https://yaml-multiline.info/\n",
-      "license": "CC0",
-      "name": "Project's name",
-      "programmingLanguages": [
-        "python",
-        "javascript",
-        "c#"
-      ],
-      "rating": 1,
-      "repoUrl": "https://github.com/org/project/",
-      "websiteUrl": "https://project.org",
-      "contributionGuidelinesUrl": "https:/project.org/contribute/",
-      "logoUrl": "",
-      "starsUrl": "https://img.shields.io/github/stars/org/project.svg?style=social&label=Star&maxAge=2592000",
-      "numberContributors": {
-        "url": "https://api.github.com/repos/org/proj/stats/contributors",
-        "format": "json",
-        "accessor": "list"
-      },
-      "frameworksUsed": [
-        "Django"
-      ],
-      "licenseUrl": "https://project.org/license/",
-      "naturalLanguages": [
-        "English",
-        "German"
-      ]
-    }
-  ],
   "3": [
     {
       "description": "Bahmni is an Open Source hospital Management System focusing on poor/underserved and public hospitals in the developing world. It's aimed to being a generic system which can be used for multiple diseases and hospitals in different countries.\n",
@@ -87,35 +56,6 @@
         "English",
         "Spanish",
         "Portuguese"
-      ]
-    },
-    {
-      "description": "YAML offers several options to write multiline strings, Use whatever you want: https://yaml-multiline.info/\n",
-      "license": "CC0",
-      "name": "Project's name",
-      "programmingLanguages": [
-        "python",
-        "javascript",
-        "c#"
-      ],
-      "rating": 1,
-      "repoUrl": "https://github.com/org/project/",
-      "websiteUrl": "https://project.org",
-      "contributionGuidelinesUrl": "https:/project.org/contribute/",
-      "logoUrl": "",
-      "starsUrl": "https://img.shields.io/github/stars/org/project.svg?style=social&label=Star&maxAge=2592000",
-      "numberContributors": {
-        "url": "https://api.github.com/repos/org/proj/stats/contributors",
-        "format": "json",
-        "accessor": "list"
-      },
-      "frameworksUsed": [
-        "Django"
-      ],
-      "licenseUrl": "https://project.org/license/",
-      "naturalLanguages": [
-        "English",
-        "German"
       ]
     }
   ],
