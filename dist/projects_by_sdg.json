@@ -1,0 +1,179 @@
+{
+  "1": [
+    {
+      "description": "YAML offers several options to write multiline strings, Use whatever you want: https://yaml-multiline.info/\n",
+      "license": "CC0",
+      "name": "Project's name",
+      "programmingLanguages": [
+        "python",
+        "javascript",
+        "c#"
+      ],
+      "rating": 1,
+      "repoUrl": "https://github.com/org/project/",
+      "websiteUrl": "https://project.org",
+      "contributionGuidelinesUrl": "https:/project.org/contribute/",
+      "logoUrl": "",
+      "starsUrl": "https://img.shields.io/github/stars/org/project.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/org/proj/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "frameworksUsed": [
+        "Django"
+      ],
+      "licenseUrl": "https://project.org/license/",
+      "naturalLanguages": [
+        "English",
+        "German"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "description": "Bahmni is an Open Source hospital Management System focusing on poor/underserved and public hospitals in the developing world. It's aimed to being a generic system which can be used for multiple diseases and hospitals in different countries.\n",
+      "license": "AGPL-3.0",
+      "name": "Bahmni",
+      "programmingLanguages": [
+        "java",
+        "javascript",
+        "python",
+        "shell",
+        "groovy",
+        "ruby",
+        "perl",
+        "tsql",
+        "sqlpl",
+        "scala",
+        "clojure"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/Bahmni",
+      "websiteUrl": "https://www.bahmni.org/",
+      "contributionGuidelinesUrl": "https://bahmni.atlassian.net/wiki/spaces/BAH/pages/116069555/Contributing+to+Bahmni",
+      "logoUrl": "https://images.squarespace-cdn.com/content/54358a40e4b0d0810faf80c2/1449227490774-VM0J81B5NXHRUIGXPF5H/Bahmni+logo+black+font.png?format=1500w&content-type=image%2Fpng",
+      "starsUrl": "https://img.shields.io/github/stars/Bahmni/openmrs-module-bahmniapps.svg?style=social&maxAge=2592000",
+      "frameworksUsed": [
+        "OpenMRS",
+        "OpenERP",
+        "OpenELIS",
+        "Angular",
+        "AWS",
+        "Freemarker",
+        "Gauge",
+        "React",
+        "Spring"
+      ],
+      "licenseUrl": "https://www.gnu.org/licenses/agpl-3.0.html"
+    },
+    {
+      "description": "GNU Health is a Free/Libre project for health practitioners, health institutions and governments. It provides the functionality of Electronic Medical Record (EMR), Hospital Management (HMIS) and Health Information System (HIS).\n",
+      "license": "GLP 3.0",
+      "name": "GNU Health",
+      "programmingLanguages": [
+        "python"
+      ],
+      "rating": 5,
+      "repoUrl": "http://hg.savannah.gnu.org/hgweb/health/",
+      "websiteUrl": "http://health.gnu.org/",
+      "contributionGuidelinesUrl": "https://en.wikibooks.org/wiki/GNU_Health/Contributing",
+      "logoUrl": "http://health.gnu.org/assets/img/isologo-gnu-health.png",
+      "frameworksUsed": [
+        "Tryton"
+      ],
+      "licenseUrl": "http://hg.savannah.gnu.org/hgweb/health/file/ea6255706780/COPYING",
+      "naturalLanguages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ]
+    },
+    {
+      "description": "YAML offers several options to write multiline strings, Use whatever you want: https://yaml-multiline.info/\n",
+      "license": "CC0",
+      "name": "Project's name",
+      "programmingLanguages": [
+        "python",
+        "javascript",
+        "c#"
+      ],
+      "rating": 1,
+      "repoUrl": "https://github.com/org/project/",
+      "websiteUrl": "https://project.org",
+      "contributionGuidelinesUrl": "https:/project.org/contribute/",
+      "logoUrl": "",
+      "starsUrl": "https://img.shields.io/github/stars/org/project.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/org/proj/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "frameworksUsed": [
+        "Django"
+      ],
+      "licenseUrl": "https://project.org/license/",
+      "naturalLanguages": [
+        "English",
+        "German"
+      ]
+    }
+  ],
+  "10": [
+    {
+      "description": "This Accessibility Project is a community-driven effort to make web accessibility easier by leveraging a worldwide community of developer knowledge.\n",
+      "license": "Apache-2.0",
+      "name": "A11Y",
+      "programmingLanguages": [
+        "markdown",
+        "sass",
+        "yaml"
+      ],
+      "rating": 1,
+      "repoUrl": "https://github.com/a11yproject/a11yproject.com",
+      "websiteUrl": "https://a11yproject.com/",
+      "contributionGuidelinesUrl": "https://github.com/a11yproject/a11yproject.com/blob/gh-pages/CONTRIBUTING.md",
+      "logoUrl": "https://a11yproject.com/img/logo.png",
+      "starsUrl": "https://img.shields.io/github/stars/a11yproject/a11yproject.com.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/a11yproject/a11yproject.com/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "frameworksUsed": [
+        "Jekyll"
+      ],
+      "licenseUrl": "https://github.com/a11yproject/a11yproject.com/blob/gh-pages/LICENSE-APLv2",
+      "naturalLanguages": [
+        "English"
+      ]
+    }
+  ],
+  "16": [
+    {
+      "description": "Serenata compiles public information of Brazilian politicians and analyses it using an AI. It will then also point out suspicious transactions and provide statistics.\nAdaption for other countries is not planned, but supported by the maintainers.\n",
+      "license": "MIT",
+      "name": "Serenata de amor",
+      "programmingLanguages": [
+        "python",
+        "elm"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/okfn-brasil/serenata-de-amor",
+      "websiteUrl": "https://serenata.ai/en/",
+      "contributionGuidelinesUrl": "https://github.com/okfn-brasil/serenata-de-amor/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://d33wubrfki0l68.cloudfront.net/44a83a2616e2fb7893134c5d92addc1e6d29e20e/05b5d/images/logo.png",
+      "starsUrl": "https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/org/proj/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "licenseUrl": "https://github.com/okfn-brasil/serenata-de-amor/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English",
+        "Portuguese"
+      ]
+    }
+  ]
+}
