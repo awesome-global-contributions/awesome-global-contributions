@@ -11,7 +11,7 @@ discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awes
 and [this initial contribution from Pangloss
 Labs](https://panglosslabs.org/projects/osprojgc/).
 
-## 3
+## SDG 3: Good health and well-being
 
 ### Bahmni
 Bahmni is an Open Source hospital Management System focusing on poor/underserved and public hospitals in the developing world. It's aimed to being a generic system which can be used for multiple diseases and hospitals in different countries.
@@ -27,7 +27,7 @@ GNU Health is a Free/Libre project for health practitioners, health institutions
 * license: GLP 3.0
 * [website](http://health.gnu.org/) | [repo](http://hg.savannah.gnu.org/hgweb/health/)
 
-## 10
+## SDG 10: Reduced inequalities
 
 ### A11Y
 This Accessibility Project is a community-driven effort to make web accessibility easier by leveraging a worldwide community of developer knowledge.
@@ -36,7 +36,7 @@ This Accessibility Project is a community-driven effort to make web accessibilit
 * license: Apache-2.0
 * [website](https://a11yproject.com/) | [repo](https://github.com/a11yproject/a11yproject.com)
 
-## 16
+## SDG 16: Peace, Justice and strong institutions
 
 ### Serenata de amor
 Serenata compiles public information of Brazilian politicians and analyses it using an AI. It will then also point out suspicious transactions and provide statistics.
@@ -45,4 +45,20 @@ Adaption for other countries is not planned, but supported by the maintainers.
 * rating: 5
 * license: MIT
 * [website](https://serenata.ai/en/) | [repo](https://github.com/okfn-brasil/serenata-de-amor)
+
+## SDG 17: Partnerships for the goals
+
+### CharityBase
+Charity Base is an API that aggregates data from the 168,000 charities registered in England and Wales - potentially expanding to other countries in the future.
+
+* rating: 2
+* license: MIT
+* [website](https://charitybase.uk/) | [repo](https://github.com/charity-base?tab=repositories)
+
+### Twilio.org Rapid Response Kit
+A collection and combination of multiple different tools for all possible communication means for Nonprofits. These include Auto-Response, Broadcast, Conference Line, Forwarder, Ringdowns, Surveys and more.
+
+* rating: 3
+* license: MIT
+* [website](https://www.twilio.org/) | [repo](https://github.com/Twilio-org/rapid-response-kit)
 

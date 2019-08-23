@@ -15,6 +15,25 @@ ENTRY_TEMPLATE = (
 * [website]({p.websiteUrl}) | [repo]({p.repoUrl})
 """
 )
+SDG = [
+    "No poverty",
+    "Zero hunger",
+    "Good health and well-being",
+    "Quality education",
+    "Gender equality",
+    "Clean water and sanitation",
+    "Affordable and clean energy",
+    "Decent work and economic growth",
+    "Industry, Innovation and infrastructure",
+    "Reduced inequalities",
+    "Sustainable cities and communities",
+    "Responsible consumption and production",
+    "Climate action",
+    "Life below water",
+    "Life on land",
+    "Peace, Justice and strong institutions",
+    "Partnerships for the goals",
+]
 
 
 def main():
@@ -27,7 +46,7 @@ def main():
         data = json.load(f)
 
     for sdg, projects in data.items():
-        print(f"## {sdg}\n")
+        print(f"## SDG {sdg}: {SDG[int(sdg)-1]}\n")
         for p in projects:
             project = namedtuple("Project", p.keys())(*p.values())
             print(ENTRY_TEMPLATE(project))
