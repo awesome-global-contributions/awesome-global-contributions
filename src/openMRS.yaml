@@ -29,10 +29,10 @@ numberContributors:
   format: json  # or yaml or xml
   accessor: list  # or number or property name prepended by ?
 
-ratingCommend: Due to longer inactivity and slightly lacking contribution guide
+ratingComment: Due to longer inactivity and slightly lacking contribution guide
 otherLinks:
   - name: Awesome Twilio
-    descrption: >
+    description: >
       A curated awesome list of Twilio-related tools and technologies
     link: https://github.com/Twilio-org/awesome-twilio
 frameworksUsed:
