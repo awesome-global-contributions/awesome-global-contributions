@@ -10,10 +10,11 @@
 
 # dir paths
 rootDir="$(cd `dirname $0` && dirname "$(pwd)")"
-binDir="$rootDir/bin"
-srcDir="$rootDir/src"
-distDir="$rootDir/dist"
+binDir="bin"
+srcDir="src"
+distDir="dist"
 
+cd $rootDir                 # to work on windows
 mkdir -p $distDir           # mkdir dist if needed
 
 # aggregate yaml files, allow yml or yaml extensions
