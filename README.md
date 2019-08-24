@@ -20,6 +20,13 @@ Bahmni is an Open Source hospital Management System focusing on poor/underserved
 * license: AGPL-3.0
 * [website](https://www.bahmni.org/) | [repo](https://github.com/Bahmni)
 
+### ERPNext
+ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offer a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.
+
+* rating: 5
+* license: GPL-3.0
+* [website](https://erpnext.com/healthcare) | [repo](https://github.com/frappe/erpnext)
+
 ### GNU Health
 GNU Health is a Free/Libre project for health practitioners, health institutions and governments. It provides the functionality of Electronic Medical Record (EMR), Hospital Management (HMIS) and Health Information System (HIS).
 

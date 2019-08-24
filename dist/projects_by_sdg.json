@@ -37,6 +37,49 @@
       "licenseUrl": "https://www.gnu.org/licenses/agpl-3.0.html"
     },
     {
+      "description": "ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offer a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.\n",
+      "license": "GPL-3.0",
+      "name": "ERPNext",
+      "programmingLanguages": [
+        "python",
+        "javascript"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/frappe/erpnext",
+      "websiteUrl": "https://erpnext.com/healthcare",
+      "contributionGuidelinesUrl": "https://github.com/frappe/erpnext#contributing",
+      "logoUrl": "https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png",
+      "starsUrl": "https://img.shields.io/github/stars/frappe/erpnext.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/frappe/erpnext/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "Very active. Does not only relate to Healthcare, though",
+      "otherLinks": [
+        {
+          "name": "Old smarteCare Website",
+          "description": "Website of the original module",
+          "link": "https://smartehis.com/"
+        },
+        {
+          "name": "Integration of smarteCare into the core",
+          "description": "Blog post about why smarteCare was integrated into themonolith",
+          "link": "https://erpnext.org/blog/community/erpnext-community-building-the-healthcare-module"
+        }
+      ],
+      "frameworksUsed": [
+        "Frappe",
+        "MariaDB",
+        "Redis"
+      ],
+      "licenseUrl": "https://github.com/frappe/erpnext/blob/develop/license.txt",
+      "naturalLanguages": [
+        "English",
+        "German"
+      ]
+    },
+    {
       "description": "GNU Health is a Free/Libre project for health practitioners, health institutions and governments. It provides the functionality of Electronic Medical Record (EMR), Hospital Management (HMIS) and Health Information System (HIS).\n",
       "license": "GLP 3.0",
       "name": "GNU Health",
