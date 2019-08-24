@@ -2,7 +2,7 @@
 # For top-rated claim see https://erpnext.com/about
 description: >
   ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning).
-  Among other features, it also offer a Healthcare module to manage
+  Among other features, it also offers a Healthcare module to manage
   patient data, appointments, lab tests and more.
   Originally a separate module named smarteCare, it's now integrated in
   the core itself.
