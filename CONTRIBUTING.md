@@ -119,6 +119,7 @@ The following elements will not lead to an error when they are not present.
 If possible, they should still be filled out, but not every project will provide
 the necessary data.
 
+- `ratingComment`: A comment on the given rating
 - `licenseUrl`: Link to the license of the project.
 - `sdgs`: The [SDGs](https://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
     that can be associated with the project.
@@ -127,6 +128,9 @@ the necessary data.
     is English, this list hosts projects from everywhere in the world.
     List all languages that the project's company communicates in.
     (It's not necessary that the code is written in that language)
+- `otherLinks`: Object with `name`, `description` and `link`.
+    If you have any other interesting links relating to the project that do not
+    fit into any of the other fields, feel free to add them here.
 
 ### Example based on this project
 

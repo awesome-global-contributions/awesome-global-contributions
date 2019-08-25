@@ -65,6 +65,12 @@ numberContributors:
 # If they fit the project, please still
 # try to fill them out
 
+ratingComment: Optional explanation for the rating
+# Other link not fitting into the other categories
+otherLinks:
+  - name: Live Demo
+    description: Live Demo of the project in action
+    link: https://live.project.com
 frameworksUsed:
   - Django
 licenseUrl: "https://project.org/license/"
