@@ -7,6 +7,8 @@ description: >
   At the current time it has also been translated into
   [24 different
   languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)
+  and estimates around [2000 regular
+  users](https://github.com/OptiKey/OptiKey/issues/544#issuecomment-469251533)
 license: GPL-3.0
 name: OptiKey
 programmingLanguages:
@@ -16,7 +18,8 @@ repoUrl: "https://github.com/OptiKey/OptiKey"
 sdgs: [ 10 ] 
 websiteUrl: "http://www.optikey.org"
 
-contributionGuidelinesUrl: "https://github.com/OptiKey/OptiKey"
+contributionGuidelinesUrl: "https://github.com/OptiKey/OptiKey/blob/master/\
+                            CONTRIBUTING.md"
 logoUrl: "https://raw.githubusercontent.com/OptiKey/OptiKey/gh-pages/images/\
           OptiKey-logo-600x200.png"
 starsUrl: "https://img.shields.io/github/stars/OptiKey/OptiKey.svg\
