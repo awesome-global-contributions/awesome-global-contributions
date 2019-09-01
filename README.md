@@ -21,7 +21,7 @@ Bahmni is an Open Source hospital Management System focusing on poor/underserved
 * [website](https://www.bahmni.org/) | [repo](https://github.com/Bahmni)
 
 ### ERPNext
-ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offer a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.
+ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offers a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.
 
 * rating: 5
 * license: GPL-3.0
@@ -42,6 +42,14 @@ This Accessibility Project is a community-driven effort to make web accessibilit
 * rating: 1
 * license: Apache-2.0
 * [website](https://a11yproject.com/) | [repo](https://github.com/a11yproject/a11yproject.com)
+
+### OptiKey
+OptiKey is an on-screen keyboard that is designed to help patients with Motor Neuron Disease (MND) interact with Windows computers. It can be used with eye-tracking devices, mouse or webcam.
+At the current time it has also been translated into [24 different languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages) and estimates around [2000 regular users](https://github.com/OptiKey/OptiKey/issues/544#issuecomment-469251533)
+
+* rating: 4
+* license: GPL-3.0
+* [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
 
 ## SDG 16: Peace, Justice and strong institutions
 
