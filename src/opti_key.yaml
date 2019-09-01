@@ -1,0 +1,43 @@
+---
+description: >
+  OptiKey is an on-screen keyboard that is designed to help patients with
+  Motor Neuron Disease (MND) interact with Windows computers.
+  It can be used with eye-tracking devices, mouse or webcam.
+
+  At the current time it has also been translated into
+  [24 different
+  languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)
+  and estimates around [2000 regular
+  users](https://github.com/OptiKey/OptiKey/issues/544#issuecomment-469251533)
+license: GPL-3.0
+name: OptiKey
+programmingLanguages:
+  - c#
+rating: 4
+repoUrl: "https://github.com/OptiKey/OptiKey"
+sdgs: [ 10 ] 
+websiteUrl: "http://www.optikey.org"
+
+contributionGuidelinesUrl: "https://github.com/OptiKey/OptiKey/blob/master/\
+                            CONTRIBUTING.md"
+logoUrl: "https://raw.githubusercontent.com/OptiKey/OptiKey/gh-pages/images/\
+          OptiKey-logo-600x200.png"
+starsUrl: "https://img.shields.io/github/stars/OptiKey/OptiKey.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/OptiKey/OptiKey/stats/contributors"
+  format: json  # or yaml or xml
+  accessor: list  # or number or property name prepended by ?
+
+
+ratingComment: Very active and impactful, but no good Contribution guide
+otherLinks:
+  - name: OptiKey in action
+    description: Youtube video of OptiKey being used
+    link: https://www.youtube.com/watch?v=HLkyORh7vKk
+frameworksUsed:
+  - .NET Framework
+licenseUrl: "https://github.com/OptiKey/OptiKey/blob/master/LICENSE.txt"
+naturalLanguages:
+  - English
+

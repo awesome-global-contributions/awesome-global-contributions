@@ -37,7 +37,7 @@
       "licenseUrl": "https://www.gnu.org/licenses/agpl-3.0.html"
     },
     {
-      "description": "ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offer a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.\n",
+      "description": "ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offers a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.\n",
       "license": "GPL-3.0",
       "name": "ERPNext",
       "programmingLanguages": [
@@ -127,6 +127,40 @@
         "Jekyll"
       ],
       "licenseUrl": "https://github.com/a11yproject/a11yproject.com/blob/gh-pages/LICENSE-APLv2",
+      "naturalLanguages": [
+        "English"
+      ]
+    },
+    {
+      "description": "OptiKey is an on-screen keyboard that is designed to help patients with Motor Neuron Disease (MND) interact with Windows computers. It can be used with eye-tracking devices, mouse or webcam.\nAt the current time it has also been translated into [24 different languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages) and estimates around [2000 regular users](https://github.com/OptiKey/OptiKey/issues/544#issuecomment-469251533)\n",
+      "license": "GPL-3.0",
+      "name": "OptiKey",
+      "programmingLanguages": [
+        "c#"
+      ],
+      "rating": 4,
+      "repoUrl": "https://github.com/OptiKey/OptiKey",
+      "websiteUrl": "http://www.optikey.org",
+      "contributionGuidelinesUrl": "https://github.com/OptiKey/OptiKey/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://raw.githubusercontent.com/OptiKey/OptiKey/gh-pages/images/OptiKey-logo-600x200.png",
+      "starsUrl": "https://img.shields.io/github/stars/OptiKey/OptiKey.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/OptiKey/OptiKey/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "Very active and impactful, but no good Contribution guide",
+      "otherLinks": [
+        {
+          "name": "OptiKey in action",
+          "description": "Youtube video of OptiKey being used",
+          "link": "https://www.youtube.com/watch?v=HLkyORh7vKk"
+        }
+      ],
+      "frameworksUsed": [
+        ".NET Framework"
+      ],
+      "licenseUrl": "https://github.com/OptiKey/OptiKey/blob/master/LICENSE.txt",
       "naturalLanguages": [
         "English"
       ]
