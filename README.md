@@ -34,6 +34,22 @@ GNU Health is a Free/Libre project for health practitioners, health institutions
 * license: GLP 3.0
 * [website](http://health.gnu.org/) | [repo](http://hg.savannah.gnu.org/hgweb/health/)
 
+### Safecast
+Safecast is a global volunter-centered **Citizen Science** project working to empower people with open data about their environments.
+
+* rating: 5
+* license: MIT
+* [website](https://blog.safecast.org/) | [repo](https://github.com/safecast)
+
+## SDG 9: Industry, Innovation and infrastructure
+
+### Safecast
+Safecast is a global volunter-centered **Citizen Science** project working to empower people with open data about their environments.
+
+* rating: 5
+* license: MIT
+* [website](https://blog.safecast.org/) | [repo](https://github.com/safecast)
+
 ## SDG 10: Reduced inequalities
 
 ### A11Y

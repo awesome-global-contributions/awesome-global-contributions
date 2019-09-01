@@ -1,0 +1,31 @@
+---
+description: >
+  Safecast is a global volunter-centered **Citizen Science** project working to
+  empower people with open data about their environments.
+license: MIT
+name: Safecast
+programmingLanguages:
+  - C++
+  - C
+  - JavaScript
+  - PHP
+  - Go
+rating: 5
+repoUrl: "https://github.com/safecast"
+sdgs: [3, 9]
+websiteUrl: "https://blog.safecast.org/"
+
+contributionGuidelinesUrl: "https://blog.safecast.org/volunteer/"
+logoUrl: "https://i1.wp.com/blog.safecast.org/wp-content/uploads/2011/07/\
+         safecast-square-ct.png"
+
+otherLinks:
+  - name: Safecast map
+    description: Map showing Radiation & Air quality levels in the world
+    link: http://safecast.org/tilemap/
+frameworksUsed:
+  - Django
+licenseUrl: "https://blog.safecast.org/faq/licenses/"
+naturalLanguages:
+  - English
+  - Japanese
