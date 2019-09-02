@@ -17,6 +17,7 @@ license: CC0
 # minus punctuation and spaces replaced by underscores
 name: Project's name
 programmingLanguages:
+  # All lowercase please
   - python
   - javascript
   - c#
