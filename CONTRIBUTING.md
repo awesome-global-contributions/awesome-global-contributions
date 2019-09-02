@@ -76,7 +76,7 @@ Since the project may be hosted on any website, this is not always possible.
 For those from unsupported sites, you will need to fill out the
 following items:
 
-- `contributionGuidlinesUrl`: The URL to the contribution guidelines
+- `contributionGuidelinesUrl`: The URL to the contribution guidelines
     of the project.
 - `logoUrl`: The URL to an image file that represents the logo of the
     project
