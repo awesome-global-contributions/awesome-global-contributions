@@ -13,7 +13,7 @@ description: >
 # the license should be OSI approved:
 # https://opensource.org/licenses/alphabetical
 license: CC0
-# the filename should be identical to the name,
+# the filename should be identical to the name, in lowercase
 # minus punctuation and spaces replaced by underscores
 name: Project's name
 programmingLanguages:
@@ -78,3 +78,6 @@ licenseUrl: "https://project.org/license/"
 naturalLanguages:
   - English
   - German
+# If there are too many languages to be listed, add '+N languages' above, and a
+# link to the list of languages below
+naturalLanguagesLink: "https://www.transifex.com/org/project/"

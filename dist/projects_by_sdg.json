@@ -1,4 +1,41 @@
 {
+  "2": [
+    {
+      "description": "Free and open database for farming and gardening knowledge. Their mission is to develop a community and tools for freely sharing plant knowledge locally and globally.\n",
+      "license": "MIT, CC0",
+      "name": "OpenFarm",
+      "programmingLanguages": [
+        "ruby"
+      ],
+      "rating": 8,
+      "repoUrl": "https://github.com/openfarmcc/OpenFarm/",
+      "websiteUrl": "https://openfarm.cc/",
+      "contributionGuidelinesUrl": "https://github.com/openfarmcc/OpenFarm/#development",
+      "logoUrl": "https://openfarm.cc/assets/openfarm_logo_new_small-ae6a2e6a6d4718949fbaffdf6ba65e5848534b0b3228188b07bd815390bcda33.png",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/openfarmcc/OpenFarm/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "Very good documentation, and lot of potential for contributors to have a big impact. They are actively looking for maintainers.\n",
+      "otherLinks": [
+        {
+          "name": "Development roadmap",
+          "description": "You need to request access",
+          "link": "https://docs.google.com/spreadsheets/d/13_VQDOm8HpM49Ql3HyNfL9ut5JlqbLEDA9yEk5OqgqU/edit?usp=sharing"
+        }
+      ],
+      "frameworksUsed": [
+        "Rails"
+      ],
+      "licenseUrl": "https://github.com/openfarmcc/OpenFarm/#software-license",
+      "naturalLanguages": [
+        "English",
+        "+61 languages"
+      ],
+      "naturalLanguagesLink": "https://www.transifex.com/openfarm/openfarm/"
+    }
+  ],
   "3": [
     {
       "description": "Bahmni is an Open Source hospital Management System focusing on poor/underserved and public hospitals in the developing world. It's aimed to being a generic system which can be used for multiple diseases and hospitals in different countries.\n",

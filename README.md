@@ -11,6 +11,15 @@ discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awes
 and [this initial contribution from Pangloss
 Labs](https://panglosslabs.org/projects/osprojgc/).
 
+## SDG 2: Zero hunger
+
+### OpenFarm
+Free and open database for farming and gardening knowledge. Their mission is to develop a community and tools for freely sharing plant knowledge locally and globally.
+
+* rating: 8
+* license: MIT, CC0
+* [website](https://openfarm.cc/) | [repo](https://github.com/openfarmcc/OpenFarm/)
+
 ## SDG 3: Good health and well-being
 
 ### Bahmni
