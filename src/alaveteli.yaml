@@ -1,0 +1,43 @@
+---
+description: >
+  Platform for making public freedom of information requests to public bodies.
+  Alaveteli helps you lower the barriers that prevent citizens asking questions
+  of those in power.
+  Alaveteli has been [implemented for 24 different
+  countries](https://alaveteli.org/deployments/)
+license: AGPL 3.0
+name: Alaveteli
+programmingLanguages:
+  - ruby
+rating: 5
+repoUrl: "https://github.com/mysociety/alaveteli"
+sdgs: [16]
+websiteUrl: "https://alaveteli.org/"
+
+contributionGuidelinesUrl: "https://alaveteli.org/docs/developers/"
+# They have no logo. We could otherwise use the mySociety logo
+logoUrl: "https://alaveteli.org/assets/img/favicon.png"
+
+otherLinks:
+  - name: WhatDoTheyKnow
+    description: >
+      First instance of the Alaveteli software.
+      Get answers from the UK government and public sector.
+    link: https://www.whatdotheyknow.com/
+  - name: AsktheEU
+    description: >
+      online platform for citizens to send access to documents requests
+      directly to EU institutions.
+    link: https://www.asktheeu.org/
+  - name: mySociety
+    description: >
+      Alaveteli is part of the umbrella organization mySociety.
+      They provide technology, research and data that help people to be active
+      citizens.
+    link: https://www.mysociety.org/
+frameworksUsed:
+  - Rails 4.x
+licenseUrl: "https://github.com/mysociety/alaveteli/blob/develop/LICENSE.txt"
+naturalLanguages:
+  - English
+  - Spanish

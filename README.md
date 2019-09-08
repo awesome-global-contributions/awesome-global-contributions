@@ -78,6 +78,13 @@ At the current time it has also been translated into [24 different languages](ht
 
 ## SDG 16: Peace, Justice and strong institutions
 
+### Alaveteli
+Platform for making public freedom of information requests to public bodies. Alaveteli helps you lower the barriers that prevent citizens asking questions of those in power. Alaveteli has been [implemented for 24 different countries](https://alaveteli.org/deployments/)
+
+* rating: 5
+* license: AGPL 3.0
+* [website](https://alaveteli.org/) | [repo](https://github.com/mysociety/alaveteli)
+
 ### Serenata de amor
 Serenata compiles public information of Brazilian politicians and analyses it using an AI. It will then also point out suspicious transactions and provide statistics.
 Adaption for other countries is not planned, but supported by the maintainers.
