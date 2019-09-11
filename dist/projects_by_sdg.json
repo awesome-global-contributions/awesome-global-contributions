@@ -307,6 +307,39 @@
       ]
     }
   ],
+  "14": [
+    {
+      "description": "An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries Language for Universal eXchange)\n",
+      "license": "GPL v3",
+      "name": "Union VMS",
+      "programmingLanguages": [
+        "java",
+        "python",
+        "javascript"
+      ],
+      "rating": 6,
+      "repoUrl": "https://github.com/UnionVMS",
+      "websiteUrl": "http://www.focus.fish/",
+      "contributionGuidelinesUrl": "http://www.focus.fish/contribute/",
+      "logoUrl": "http://www.focus.fish/wp-content/uploads/2016/10/logo-1.png",
+      "ratingComment": "The project is very impactful, but developed by large organizations (SWE, DG MARE, BEL) and consequently not very friendly to single contributors.\n",
+      "otherLinks": [
+        {
+          "name": "Demo presentation",
+          "link": "https://focusfish.atlassian.net/wiki/download/attachments/121831428/FOCUS_SUITE.pdf?api=v2"
+        },
+        {
+          "name": "Roadmap Planner for UVMS",
+          "link": "https://focusfish.atlassian.net/wiki/spaces/UVMS/overview"
+        },
+        {
+          "name": "FOCUS",
+          "description": "The FOCUS (Fisheries Open Source Community Software) community has been established with the purpose to create and maintain free software dedicated to the management and preservation of the fishery resource.\n",
+          "link": "http://www.focus.fish/"
+        }
+      ]
+    }
+  ],
   "16": [
     {
       "description": "Platform for making public freedom of information requests to public bodies. Alaveteli helps you lower the barriers that prevent citizens asking questions of those in power. Alaveteli has been [implemented for 24 different countries](https://alaveteli.org/deployments/)\n",

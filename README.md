@@ -85,6 +85,15 @@ At the current time it has also been translated into [24 different languages](ht
 * license: GPL-3.0
 * [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
 
+## SDG 14: Life below water
+
+### Union VMS
+An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries Language for Universal eXchange)
+
+* rating: 6
+* license: GPL v3
+* [website](http://www.focus.fish/) | [repo](https://github.com/UnionVMS)
+
 ## SDG 16: Peace, Justice and strong institutions
 
 ### Alaveteli
