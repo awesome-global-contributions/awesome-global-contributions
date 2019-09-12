@@ -1,0 +1,27 @@
+---
+description: The software behind Wikipedia
+license: CC BY-SA 3.0
+name: MediaWiki
+programmingLanguages:
+  - php
+  - javascript
+  - objective-c
+  - java
+  - python
+  - c++
+  - c#
+rating: 10
+repoUrl: "https://phabricator.wikimedia.org/diffusion/"
+sdgs: [4]
+websiteUrl: "https://www.mediawiki.org/wiki/MediaWiki"
+
+contributionGuidelinesUrl: "https://www.mediawiki.org/wiki/How_to_contribute"
+logoUrl: "https://www.mediawiki.org/static/images/project-logos/\
+          mediawikiwiki.png"
+
+ratingComment: This project is a model of OSS development
+frameworksUsed:
+  - Swing
+  - Lua
+  - LESS
+licenseUrl: "https://project.org/license/"

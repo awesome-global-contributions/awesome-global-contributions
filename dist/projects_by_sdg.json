@@ -173,6 +173,7 @@
   ],
   "4": [
     {
+<<<<<<< HEAD
       "description": "Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems. It does so by providing an offline application\n",
       "license": "MIT",
       "name": "Kolibri",
@@ -207,6 +208,32 @@
         "+19 other languages"
       ],
       "naturalLanguagesLink": "https://github.com/learningequality/kolibri/tree/develop/kolibri/locale"
+=======
+      "description": "The software behind Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "name": "MediaWiki",
+      "programmingLanguages": [
+        "php",
+        "javascript",
+        "objective-c",
+        "java",
+        "python",
+        "c++",
+        "c#"
+      ],
+      "rating": 10,
+      "repoUrl": "https://phabricator.wikimedia.org/diffusion/",
+      "websiteUrl": "https://www.mediawiki.org/wiki/MediaWiki",
+      "contributionGuidelinesUrl": "https://www.mediawiki.org/wiki/How_to_contribute",
+      "logoUrl": "https://www.mediawiki.org/static/images/project-logos/mediawikiwiki.png",
+      "ratingComment": "This project is a model of OSS development",
+      "frameworksUsed": [
+        "Swing",
+        "Lua",
+        "LESS"
+      ],
+      "licenseUrl": "https://project.org/license/"
+>>>>>>> feat: new project MediaWiki
     }
   ],
   "9": [
