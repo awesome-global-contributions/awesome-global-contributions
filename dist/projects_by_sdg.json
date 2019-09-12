@@ -232,8 +232,12 @@
         "Lua",
         "LESS"
       ],
+<<<<<<< HEAD
       "licenseUrl": "https://project.org/license/"
 >>>>>>> feat: new project MediaWiki
+=======
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+>>>>>>> fix: mediawiki licenseUrl
     }
   ],
   "9": [
