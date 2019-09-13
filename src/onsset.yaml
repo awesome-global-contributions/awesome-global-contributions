@@ -1,0 +1,34 @@
+---
+description: >
+  Stands for Open Source Spatial Electrification Tool.
+  It's an optimization energy modelling tool, that estimates, analyzes and
+  visualizes the most cost effective electrification strategy.
+  It is designed to complement existing energy planning models which do not
+  consider geographical characteristics related to energy and aims to provide
+  invaluable support to policy and decision makers on least-cost
+  electrification strategies.
+license: CC0
+name: OnSSET
+programmingLanguages:
+  - python
+  - javascript
+  - c#
+# See guideline on how to rate a project
+rating: 1
+repoUrl: "https://github.com/KTH-dESA/PyOnSSET"
+sdgs: [7]
+websiteUrl: "http://www.onsset.org/"
+
+contributionGuidelinesUrl: ""
+logoUrl: "http://www.onsset.org/uploads/1/8/5/0/18504136/onsset-logo-3.png"
+
+ratingComment: Optional explanation for the rating
+# Other link not fitting into the other categories
+otherLinks:
+  - name: Documentation
+    link: https://onsset-manual.readthedocs.io/en/latest/
+  - name: Projects using OnSSET
+    link: http://www.onsset.org/projects.html
+frameworksUsed:
+  - Django
+licenseUrl: "https://project.org/license/"
