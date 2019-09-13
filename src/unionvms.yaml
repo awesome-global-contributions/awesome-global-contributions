@@ -20,7 +20,7 @@ ratingComment: >
   The project is very impactful, but developed by large organizations
   (SWE, DG MARE, BEL) and consequently not very friendly to single contributors.
 otherLinks:
-  - name: Demo presentation
+  - name: Demo presentation (pdf download)
     link: "https://focusfish.atlassian.net/wiki/download/attachments/121831428/\
            FOCUS_SUITE.pdf?api=v2"
   - name: Roadmap Planner for UVMS
