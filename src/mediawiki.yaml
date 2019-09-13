@@ -22,6 +22,4 @@ logoUrl: "https://www.mediawiki.org/static/images/project-logos/\
 ratingComment: This project is a model of OSS development
 frameworksUsed:
   - Swing
-  - Lua
-  - LESS
 licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"

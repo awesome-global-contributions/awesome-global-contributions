@@ -228,9 +228,7 @@
       "logoUrl": "https://www.mediawiki.org/static/images/project-logos/mediawikiwiki.png",
       "ratingComment": "This project is a model of OSS development",
       "frameworksUsed": [
-        "Swing",
-        "Lua",
-        "LESS"
+        "Swing"
       ],
 <<<<<<< HEAD
       "licenseUrl": "https://project.org/license/"
