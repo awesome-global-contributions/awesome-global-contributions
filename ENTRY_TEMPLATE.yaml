@@ -70,6 +70,7 @@ ratingComment: Optional explanation for the rating
 # Other link not fitting into the other categories
 otherLinks:
   - name: Live Demo
+    # you can provide name/link without description
     description: Live Demo of the project in action
     link: https://live.project.com
 frameworksUsed:

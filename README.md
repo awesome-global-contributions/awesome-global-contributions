@@ -50,6 +50,15 @@ Safecast is a global volunteer-centered **Citizen Science** project working to e
 * license: MIT
 * [website](https://blog.safecast.org/) | [repo](https://github.com/safecast)
 
+## SDG 4: Quality education
+
+### Kolibri
+Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems. It does so by providing an offline application
+
+* rating: 7
+* license: MIT
+* [website](https://learningequality.org/kolibri/) | [repo](https://github.com/learningequality/kolibri)
+
 ## SDG 9: Industry, Innovation and infrastructure
 
 ### Safecast

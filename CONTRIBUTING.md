@@ -64,8 +64,8 @@ the project should be added to this list.
 - `websiteUrl`: The URL for the website of the project.
     If it doesn't have one, simply use the README of the project.
 - `rating`: The friendliness rating of the project.
-    See the [guide]() to know what number to give it.
-    You should probably do this last.
+    Currently a 0-10 Likert scale. You should probably do this last.
+    <!-- See the [guide]() to know what number to give it. -->
     > TODO: Define ratings
 
 ### Overwrite Information
