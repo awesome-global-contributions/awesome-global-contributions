@@ -219,7 +219,9 @@
         "java",
         "python",
         "c++",
-        "c#"
+        "c#",
+        "lua",
+        "less"
       ],
       "rating": 10,
       "repoUrl": "https://phabricator.wikimedia.org/diffusion/",
