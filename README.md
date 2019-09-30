@@ -52,20 +52,18 @@ Safecast is a global volunteer-centered **Citizen Science** project working to e
 
 ## SDG 4: Quality education
 
-<<<<<<< HEAD
 ### Kolibri
 Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems. It does so by providing an offline application
 
 * rating: 7
 * license: MIT
 * [website](https://learningequality.org/kolibri/) | [repo](https://github.com/learningequality/kolibri)
-=======
+
 ### MediaWiki
 The software behind Wikipedia
 * rating: 10
 * license: CC BY-SA 3.0
 * [website](https://www.mediawiki.org/wiki/MediaWiki) | [repo](https://phabricator.wikimedia.org/diffusion/)
->>>>>>> feat: new project MediaWiki
 
 ## SDG 9: Industry, Innovation and infrastructure
 
