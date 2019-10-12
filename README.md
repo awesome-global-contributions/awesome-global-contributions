@@ -109,6 +109,14 @@ Platform for making public freedom of information requests to public bodies. Ala
 * license: AGPL 3.0
 * [website](https://alaveteli.org/) | [repo](https://github.com/mysociety/alaveteli)
 
+### Callisto
+Reporting sexual assoult or professional sexual coercion can feel isolating – or worse, retraumatizing. To some it might also come with some risk.
+Callisto wants to change the equation and empower survivors, provide options and allow disclosure in a way that feels save. Under its many functionalities, one of them is to securely connect victims of the same perpetrator to identify repeat offenders.
+
+* rating: 5
+* license: AGPL-3.0
+* [website](https://www.projectcallisto.org) | [repo](https://github.com/project-callisto/callisto-core/)
+
 ### Serenata de amor
 Serenata compiles public information of Brazilian politicians and analyses it using an AI. It will then also point out suspicious transactions and provide statistics.
 Adaption for other countries is not planned, but supported by the maintainers.
