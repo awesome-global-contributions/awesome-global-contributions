@@ -1,0 +1,34 @@
+---
+description: >
+  Oppia is an online leanring tool that enables anyone to create and share
+  interactive activiies.
+  
+  In addition the core team also maintains a set of free and effective lessions
+  that are targeted at learners who lack access to educational resources.
+license: Apache-2.0
+name: Oppia
+programmingLanguages:
+  - python
+  - typescript
+rating: 5
+repoUrl: "https://github.com/oppia/oppia"
+sdgs: [4, 10]
+websiteUrl: "https://www.oppia.org"
+
+contributionGuidelinesUrl: "https://github.com/oppia/oppia/wiki"
+logoUrl: "https://avatars0.githubusercontent.com/u/11620230?s=200&v=4"
+starsUrl: "https://img.shields.io/github/stars/oppia/oppia.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/oppia/oppia/stats/contributors"
+  format: json
+  accessor: list
+
+ratingComment: No metric defined yet; Extremely extensive guide
+frameworksUsed:
+  - AngularJS
+licenseUrl: "https://github.com/oppia/oppia/blob/develop/LICENSE"
+# Note that while the website is available in multiple languages, I could
+# not find the basic lessions in any other language but english.
+naturalLanguages:
+  - English
