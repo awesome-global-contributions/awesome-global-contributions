@@ -65,6 +65,14 @@ The software behind Wikipedia
 * license: CC BY-SA 3.0
 * [website](https://www.mediawiki.org/wiki/MediaWiki) | [repo](https://phabricator.wikimedia.org/diffusion/)
 
+### Oppia
+Oppia is an online leanring tool that enables anyone to create and share interactive activiies.
+In addition the core team also maintains a set of free and effective lessions that are targeted at learners who lack access to educational resources.
+
+* rating: 5
+* license: Apache-2.0
+* [website](https://www.oppia.org) | [repo](https://github.com/oppia/oppia)
+
 ## SDG 9: Industry, Innovation and infrastructure
 
 ### Safecast
@@ -82,6 +90,14 @@ This Accessibility Project is a community-driven effort to make web accessibilit
 * rating: 1
 * license: Apache-2.0
 * [website](https://a11yproject.com/) | [repo](https://github.com/a11yproject/a11yproject.com)
+
+### Oppia
+Oppia is an online leanring tool that enables anyone to create and share interactive activiies.
+In addition the core team also maintains a set of free and effective lessions that are targeted at learners who lack access to educational resources.
+
+* rating: 5
+* license: Apache-2.0
+* [website](https://www.oppia.org) | [repo](https://github.com/oppia/oppia)
 
 ### OptiKey
 OptiKey is an on-screen keyboard that is designed to help patients with Motor Neuron Disease (MND) interact with Windows computers. It can be used with eye-tracking devices, mouse or webcam.
