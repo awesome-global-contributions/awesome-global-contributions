@@ -646,6 +646,42 @@
   ],
   "15": [
     {
+      "description": "AutoFocus uses deep learning to identify the type of animal in \"camera traps\" photos. This frees up a lot of time for wildlife conservation efforts, for which this is often a major bottleneck.\n",
+      "license": "BSD-3-Clause",
+      "name": "Autofocus",
+      "programmingLanguages": [
+        "python"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/uptake/autofocus",
+      "websiteUrl": "https://www.uptake.org/impact/special-projects",
+      "starsUrl": "https://img.shields.io/github/stars/uptake/autofocus.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/uptake/autofocus/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "No rating metric defined yet; no contribution guide",
+      "otherLinks": [
+        {
+          "name": "Case Study",
+          "description": "Summary of a Case study in the Lincoln Park zoo",
+          "link": "https://drive.google.com/file/d/1U7VeuTRG8vkos7PrUbjaJvldKaBz72aH/view"
+        },
+        {
+          "name": "Lincoln Park zoo news article",
+          "link": "https://www.lpzoo.org/blog/machine-learning-meets-wildlife-\\ conservation"
+        }
+      ],
+      "frameworksUsed": [
+        "Jupyter"
+      ],
+      "licenseUrl": "https://github.com/uptake/autofocus/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    },
+    {
       "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
       "license": "GPL 3.0",
       "name": "ffem",

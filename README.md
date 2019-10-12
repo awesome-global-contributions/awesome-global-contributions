@@ -173,6 +173,13 @@ An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries La
 
 ## SDG 15: Life on land
 
+### Autofocus
+AutoFocus uses deep learning to identify the type of animal in "camera traps" photos. This frees up a lot of time for wildlife conservation efforts, for which this is often a major bottleneck.
+
+* rating: 5
+* license: BSD-3-Clause
+* [website](https://www.uptake.org/impact/special-projects) | [repo](https://github.com/uptake/autofocus)
+
 ### ffem
 The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
 
