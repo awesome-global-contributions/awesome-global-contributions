@@ -1,9 +1,9 @@
 ---
 description: >
-  Oppia is an online leanring tool that enables anyone to create and share
-  interactive activiies.
+  Oppia is an online learning tool that enables anyone to create and share
+  interactive activies.
   
-  In addition the core team also maintains a set of free and effective lessions
+  In addition the core team also maintains a set of free and effective lessons
   that are targeted at learners who lack access to educational resources.
 license: Apache-2.0
 name: Oppia
@@ -29,6 +29,6 @@ frameworksUsed:
   - AngularJS
 licenseUrl: "https://github.com/oppia/oppia/blob/develop/LICENSE"
 # Note that while the website is available in multiple languages, I could
-# not find the basic lessions in any other language but english.
+# not find the basic lessons in any other language but english.
 naturalLanguages:
   - English

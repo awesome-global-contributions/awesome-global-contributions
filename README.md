@@ -66,8 +66,8 @@ The software behind Wikipedia
 * [website](https://www.mediawiki.org/wiki/MediaWiki) | [repo](https://phabricator.wikimedia.org/diffusion/)
 
 ### Oppia
-Oppia is an online leanring tool that enables anyone to create and share interactive activiies.
-In addition the core team also maintains a set of free and effective lessions that are targeted at learners who lack access to educational resources.
+Oppia is an online learning tool that enables anyone to create and share interactive activies.
+In addition the core team also maintains a set of free and effective lessons that are targeted at learners who lack access to educational resources.
 
 * rating: 5
 * license: Apache-2.0
@@ -92,8 +92,8 @@ This Accessibility Project is a community-driven effort to make web accessibilit
 * [website](https://a11yproject.com/) | [repo](https://github.com/a11yproject/a11yproject.com)
 
 ### Oppia
-Oppia is an online leanring tool that enables anyone to create and share interactive activiies.
-In addition the core team also maintains a set of free and effective lessions that are targeted at learners who lack access to educational resources.
+Oppia is an online learning tool that enables anyone to create and share interactive activies.
+In addition the core team also maintains a set of free and effective lessons that are targeted at learners who lack access to educational resources.
 
 * rating: 5
 * license: Apache-2.0
