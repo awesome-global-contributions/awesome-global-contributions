@@ -11,6 +11,15 @@ discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awes
 and [this initial contribution from Pangloss
 Labs](https://panglosslabs.org/projects/osprojgc/).
 
+## SDG 1: No poverty
+
+### Fineract
+Mature platform with open APIs that provides a reliable, robust, and affordable core banking solution for financial institutions offering services to the world’s 2 billion underbanked and unbanked.
+
+* rating: 7
+* license: ASF 2.0
+* [website](http://fineract.apache.org/) | [repo](https://github.com/apache/fineract)
+
 ## SDG 2: Zero hunger
 
 ### OpenFarm
