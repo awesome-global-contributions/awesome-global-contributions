@@ -1,0 +1,30 @@
+---
+description: >
+   Mature platform with open APIs that provides a reliable, robust, and
+   affordable core banking solution for financial institutions offering
+   services to the world’s 2 billion underbanked and unbanked.
+license: ASF 2.0
+name: Fineract
+programmingLanguages:
+  - java
+rating: 7
+repoUrl: "https://github.com/apache/fineract"
+sdgs: [1]
+websiteUrl: "http://fineract.apache.org/"
+
+contributionGuidelinesUrl: "https://cwiki.apache.org/confluence/display/\
+                            FINERACT/Contributor%27s+Zone"
+logoUrl: "https://cwiki.apache.org/confluence/download/attachments/61334077/\
+          FINERACT?version=1&modificationDate=1451316863000&api=v2"
+starsUrl: "https://img.shields.io/github/stars/org/project.svg\
+           ?style=social&label=Star&maxAge=2592000"
+
+ratingComment: Good contribution guidelines
+otherLinks:
+  - name: Mifos
+    description: The service on top of Fineract
+    link: https://mifos.org/
+licenseUrl: "https://github.com/apache/fineract/blob/develop/\
+             APACHE_LICENSETEXT.md"
+naturalLanguages:
+  - English
