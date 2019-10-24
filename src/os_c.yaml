@@ -1,0 +1,58 @@
+---
+description: >
+  Open Source collaboration community to build a software platform that will
+  dramatically boost global capital flows into climate change mitigation and
+  resilience.
+license: CC0
+# the filename should be identical to the name, in lowercase
+# minus punctuation and spaces replaced by underscores
+name: Project's name
+programmingLanguages:
+  # All lowercase please
+  - python
+  - javascript
+  - c#
+# See guideline on how to rate a project
+rating: 1
+repoUrl: "https://github.com/org/project/"
+sdgs: [13]
+websiteUrl: "https://www.os-climate.org/"
+
+# OVERWRITE GENERATED FIELDS
+# We will attempt to auto-generate these
+# values, but aren't always able to do so.
+# Please overwrite if needed. (TODO: Provide link to more information)
+
+contributionGuidelinesUrl: "https:/project.org/contribute/"
+logoUrl: ""
+starsUrl: "https://img.shields.io/github/stars/org/project.svg\
+           ?style=social&label=Star&maxAge=2592000"
+# Link to access the amount of contributors to the project
+# The type defines what answer is expected
+# See CONTRIBUTING.md for more information
+numberContributors:
+  url: "https://api.github.com/repos/org/proj/stats/contributors"
+  format: json  # or yaml or xml
+  accessor: list  # or number or property name prepended by ?
+
+# OPTIONAL FIELDS
+# These fields may be empty.
+# If they fit the project, please still
+# try to fill them out
+
+ratingComment: Optional explanation for the rating
+# Other link not fitting into the other categories
+otherLinks:
+  - name: Live Demo
+    # you can provide name/link without description
+    description: Live Demo of the project in action
+    link: https://live.project.com
+frameworksUsed:
+  - Django
+licenseUrl: "https://project.org/license/"
+naturalLanguages:
+  - English
+  - German
+# If there are too many languages to be listed, add '+N languages' above, and a
+# link to the list of languages below
+naturalLanguagesLink: "https://www.transifex.com/org/project/"
