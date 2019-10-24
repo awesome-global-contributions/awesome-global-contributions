@@ -82,6 +82,15 @@ In addition the core team also maintains a set of free and effective lessons tha
 * license: Apache-2.0
 * [website](https://www.oppia.org) | [repo](https://github.com/oppia/oppia)
 
+## SDG 6: Clean water and sanitation
+
+### ffem
+The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
+
+* rating: 5
+* license: GPL 3.0
+* [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
+
 ## SDG 9: Industry, Innovation and infrastructure
 
 ### Safecast
@@ -116,7 +125,23 @@ At the current time it has also been translated into [24 different languages](ht
 * license: GPL-3.0
 * [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
 
+## SDG 13: Climate action
+
+### ffem
+The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
+
+* rating: 5
+* license: GPL 3.0
+* [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
+
 ## SDG 14: Life below water
+
+### ffem
+The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
+
+* rating: 5
+* license: GPL 3.0
+* [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
 
 ### Union VMS
 An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries Language for Universal eXchange)
@@ -124,6 +149,15 @@ An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries La
 * rating: 6
 * license: GPL v3
 * [website](http://www.focus.fish/) | [repo](https://github.com/UnionVMS)
+
+## SDG 15: Life on land
+
+### ffem
+The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
+
+* rating: 5
+* license: GPL 3.0
+* [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
 
 ## SDG 16: Peace, Justice and strong institutions
 

@@ -291,6 +291,30 @@
       ]
     }
   ],
+  "6": [
+    {
+      "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
+      "license": "GPL 3.0",
+      "name": "ffem",
+      "programmingLanguages": [
+        "java",
+        "python",
+        "javascript",
+        "html",
+        "kotlin"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/foundation-for-environmental-monitoring",
+      "websiteUrl": "http://ffem.io/about/",
+      "contributionGuidelinesUrl": "http://ffem.io/work/#volunteering",
+      "logoUrl": "http://ffem.io/images/logo.png",
+      "ratingComment": "Very interesting company, but lacking good contribution guides.",
+      "licenseUrl": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    }
+  ],
   "9": [
     {
       "description": "Safecast is a global volunteer-centered **Citizen Science** project working to empower people with open data about their environments. They currently offer [two datasets](https://blog.safecast.org/downloads/) of radiation and air quality in cpm (count per minute) and μSv/h (micro-Sievert per hour).\n",
@@ -417,7 +441,53 @@
       ]
     }
   ],
+  "13": [
+    {
+      "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
+      "license": "GPL 3.0",
+      "name": "ffem",
+      "programmingLanguages": [
+        "java",
+        "python",
+        "javascript",
+        "html",
+        "kotlin"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/foundation-for-environmental-monitoring",
+      "websiteUrl": "http://ffem.io/about/",
+      "contributionGuidelinesUrl": "http://ffem.io/work/#volunteering",
+      "logoUrl": "http://ffem.io/images/logo.png",
+      "ratingComment": "Very interesting company, but lacking good contribution guides.",
+      "licenseUrl": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    }
+  ],
   "14": [
+    {
+      "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
+      "license": "GPL 3.0",
+      "name": "ffem",
+      "programmingLanguages": [
+        "java",
+        "python",
+        "javascript",
+        "html",
+        "kotlin"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/foundation-for-environmental-monitoring",
+      "websiteUrl": "http://ffem.io/about/",
+      "contributionGuidelinesUrl": "http://ffem.io/work/#volunteering",
+      "logoUrl": "http://ffem.io/images/logo.png",
+      "ratingComment": "Very interesting company, but lacking good contribution guides.",
+      "licenseUrl": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    },
     {
       "description": "An open-source Vessel Monitoring System (EU project) based on FLUX (Fisheries Language for Universal eXchange)\n",
       "license": "GPL v3",
@@ -447,6 +517,30 @@
           "description": "The FOCUS (Fisheries Open Source Community Software) community has been established with the purpose to create and maintain free software dedicated to the management and preservation of the fishery resource.\n",
           "link": "http://www.focus.fish/"
         }
+      ]
+    }
+  ],
+  "15": [
+    {
+      "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
+      "license": "GPL 3.0",
+      "name": "ffem",
+      "programmingLanguages": [
+        "java",
+        "python",
+        "javascript",
+        "html",
+        "kotlin"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/foundation-for-environmental-monitoring",
+      "websiteUrl": "http://ffem.io/about/",
+      "contributionGuidelinesUrl": "http://ffem.io/work/#volunteering",
+      "logoUrl": "http://ffem.io/images/logo.png",
+      "ratingComment": "Very interesting company, but lacking good contribution guides.",
+      "licenseUrl": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
       ]
     }
   ],
