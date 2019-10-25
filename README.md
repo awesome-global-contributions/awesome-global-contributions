@@ -125,15 +125,6 @@ At the current time it has also been translated into [24 different languages](ht
 * license: GPL-3.0
 * [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
 
-## SDG 13: Climate action
-
-### ffem
-The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil
-
-* rating: 5
-* license: GPL 3.0
-* [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
-
 ## SDG 14: Life below water
 
 ### ffem

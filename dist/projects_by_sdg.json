@@ -441,30 +441,6 @@
       ]
     }
   ],
-  "13": [
-    {
-      "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
-      "license": "GPL 3.0",
-      "name": "ffem",
-      "programmingLanguages": [
-        "java",
-        "python",
-        "javascript",
-        "html",
-        "kotlin"
-      ],
-      "rating": 5,
-      "repoUrl": "https://github.com/foundation-for-environmental-monitoring",
-      "websiteUrl": "http://ffem.io/about/",
-      "contributionGuidelinesUrl": "http://ffem.io/work/#volunteering",
-      "logoUrl": "http://ffem.io/images/logo.png",
-      "ratingComment": "Very interesting company, but lacking good contribution guides.",
-      "licenseUrl": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/master/LICENSE",
-      "naturalLanguages": [
-        "English"
-      ]
-    }
-  ],
   "14": [
     {
       "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
