@@ -1,0 +1,24 @@
+name: main
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build-yaml:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Yaml Lint
+      uses: ibiqlik/action-yamllint@v0.0.1
+      with:
+        file_or_dir: src/
+        strict: true
+    - name: Generate markdown and json
+      run: sh bin/yaml2markdown.sh
+    - name: Add new commit
+      uses: github-actions-x/commit@v2.2
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "chore: yaml2markdown.sh"
+        files: README.md dist/projects_by_sdg.json
