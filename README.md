@@ -82,6 +82,13 @@ In addition the core team also maintains a set of free and effective lessons tha
 * license: Apache-2.0
 * [website](https://www.oppia.org) | [repo](https://github.com/oppia/oppia)
 
+### SignDict
+SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.
+
+* rating: 5
+* license: MPL-2.0
+* [website](https://signdict.org) | [repo](https://github.com/signdict/website)
+
 ## SDG 6: Clean water and sanitation
 
 ### ffem
@@ -124,6 +131,13 @@ At the current time it has also been translated into [24 different languages](ht
 * rating: 4
 * license: GPL-3.0
 * [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
+
+### SignDict
+SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.
+
+* rating: 5
+* license: MPL-2.0
+* [website](https://signdict.org) | [repo](https://github.com/signdict/website)
 
 ## SDG 14: Life below water
 

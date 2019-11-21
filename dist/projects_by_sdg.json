@@ -289,6 +289,36 @@
       "naturalLanguages": [
         "English"
       ]
+    },
+    {
+      "description": "SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.\n",
+      "license": "MPL-2.0",
+      "name": "SignDict",
+      "programmingLanguages": [
+        "elixir",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/signdict/website",
+      "websiteUrl": "https://signdict.org",
+      "contributionGuidelinesUrl": "https://github.com/signdict/website/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://signdict.org/images/logo.svg",
+      "starsUrl": "https://img.shields.io/github/stars/signdict/website.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/signdict/website/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "frameworksUsed": [
+        "Vue.js"
+      ],
+      "licenseUrl": "https://github.com/signdict/website/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English",
+        "German"
+      ]
     }
   ],
   "6": [
@@ -438,6 +468,36 @@
       "licenseUrl": "https://github.com/OptiKey/OptiKey/blob/master/LICENSE.txt",
       "naturalLanguages": [
         "English"
+      ]
+    },
+    {
+      "description": "SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.\n",
+      "license": "MPL-2.0",
+      "name": "SignDict",
+      "programmingLanguages": [
+        "elixir",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/signdict/website",
+      "websiteUrl": "https://signdict.org",
+      "contributionGuidelinesUrl": "https://github.com/signdict/website/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://signdict.org/images/logo.svg",
+      "starsUrl": "https://img.shields.io/github/stars/signdict/website.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/signdict/website/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "frameworksUsed": [
+        "Vue.js"
+      ],
+      "licenseUrl": "https://github.com/signdict/website/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English",
+        "German"
       ]
     }
   ],
