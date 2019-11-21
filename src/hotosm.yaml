@@ -1,0 +1,44 @@
+---
+description: >
+  HOT is an international team dedicated to humanitarian action and
+  community development through open mapping.
+  They provide map data to revolutionize disaster management, reduce risks,
+  and contribute to achieving SDGs.
+
+  HOT also provides training, equipment, knowledge exchange and field prjects.
+# At this point still unknown
+# See https://github.com/hotosm/hotosm-website/issues/626
+license: custom
+name: hotosm
+programmingLanguages:
+  - ruby
+  - javascript
+  - html
+  - css
+  - markdown
+rating: 5
+repoUrl: "https://github.com/hotosm/hotosm-website"
+sdgs: [9]
+websiteUrl: "https://www.hotosm.org"
+
+contributionGuidelinesUrl: "https://www.hotosm.org/community/working-groups/"
+logoUrl: "https://www.hotosm.org/images/hot-logo.svg"
+starsUrl: "https://img.shields.io/github/stars/hotosm/hotosm-website.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/hotosm/hotosm-website/stats/contributors"
+  format: json
+  accessor: list
+
+otherLinks:
+  - name: Live Demo
+    # you can provide name/link without description
+    description: Live Demo of the project in action
+    link: https://live.project.com
+frameworksUsed:
+  - Jekyll
+# At this point still unknown
+# See https://github.com/hotosm/hotosm-website/issues/626
+licenseUrl: "https://project.org/license/"
+naturalLanguages:
+  - English
