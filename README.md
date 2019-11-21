@@ -29,6 +29,13 @@ Free and open database for farming and gardening knowledge. Their mission is to 
 * license: MIT, CC0
 * [website](https://openfarm.cc/) | [repo](https://github.com/openfarmcc/OpenFarm/)
 
+### Open Food Network
+The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.
+
+* rating: 5
+* license: AGPL-3.0
+* [website](https://openfoodnetwork.org) | [repo](https://github.com/openfoodfoundation/openfoodnetwork/)
+
 ## SDG 3: Good health and well-being
 
 ### Bahmni
@@ -138,6 +145,15 @@ SignDict is a german dictionary for sign language using the GSL. Currently it ha
 * rating: 5
 * license: MPL-2.0
 * [website](https://signdict.org) | [repo](https://github.com/signdict/website)
+
+## SDG 12: Responsible consumption and production
+
+### Open Food Network
+The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.
+
+* rating: 5
+* license: AGPL-3.0
+* [website](https://openfoodnetwork.org) | [repo](https://github.com/openfoodfoundation/openfoodnetwork/)
 
 ## SDG 14: Life below water
 

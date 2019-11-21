@@ -62,6 +62,50 @@
         "+61 languages"
       ],
       "naturalLanguagesLink": "https://www.transifex.com/openfarm/openfarm/"
+    },
+    {
+      "description": "The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.\n",
+      "license": "AGPL-3.0",
+      "name": "Open Food Network",
+      "programmingLanguages": [
+        "ruby",
+        "coffeescript",
+        "javascript",
+        "html",
+        "css",
+        "postgresql"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/openfoodfoundation/openfoodnetwork/",
+      "websiteUrl": "https://openfoodnetwork.org",
+      "contributionGuidelinesUrl": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://www.openfoodnetwork.org/wp-content/uploads/2019/05/logo-ofn-global-web@2x.png",
+      "starsUrl": "https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/openfoodfoundation/openfoodnetwork/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "otherLinks": [
+        {
+          "name": "Local Instances",
+          "description": "A list of all the instances currently deployed by country",
+          "link": "https://www.openfoodnetwork.org/find-your-local-open-food-network/"
+        }
+      ],
+      "frameworksUsed": [
+        "Ruby on Rails",
+        "postgres"
+      ],
+      "licenseUrl": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/LICENCE.txt",
+      "naturalLanguages": [
+        "Belgian",
+        "Canadian",
+        "English",
+        "French",
+        "Norwegian",
+        "Spanish"
+      ]
     }
   ],
   "3": [
@@ -496,6 +540,52 @@
       "licenseUrl": "https://github.com/signdict/website/blob/master/LICENSE",
       "naturalLanguages": [
         "German"
+      ]
+    }
+  ],
+  "12": [
+    {
+      "description": "The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.\n",
+      "license": "AGPL-3.0",
+      "name": "Open Food Network",
+      "programmingLanguages": [
+        "ruby",
+        "coffeescript",
+        "javascript",
+        "html",
+        "css",
+        "postgresql"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/openfoodfoundation/openfoodnetwork/",
+      "websiteUrl": "https://openfoodnetwork.org",
+      "contributionGuidelinesUrl": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://www.openfoodnetwork.org/wp-content/uploads/2019/05/logo-ofn-global-web@2x.png",
+      "starsUrl": "https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/openfoodfoundation/openfoodnetwork/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "otherLinks": [
+        {
+          "name": "Local Instances",
+          "description": "A list of all the instances currently deployed by country",
+          "link": "https://www.openfoodnetwork.org/find-your-local-open-food-network/"
+        }
+      ],
+      "frameworksUsed": [
+        "Ruby on Rails",
+        "postgres"
+      ],
+      "licenseUrl": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/LICENCE.txt",
+      "naturalLanguages": [
+        "Belgian",
+        "Canadian",
+        "English",
+        "French",
+        "Norwegian",
+        "Spanish"
       ]
     }
   ],
