@@ -291,7 +291,7 @@
       ]
     },
     {
-      "description": "SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.\n",
+      "description": "SignDict is a german dictionary for sign language using the GSL. Currently it has over 4000 signs listed.\n",
       "license": "MPL-2.0",
       "name": "SignDict",
       "programmingLanguages": [
@@ -316,7 +316,6 @@
       ],
       "licenseUrl": "https://github.com/signdict/website/blob/master/LICENSE",
       "naturalLanguages": [
-        "English",
         "German"
       ]
     }
@@ -471,7 +470,7 @@
       ]
     },
     {
-      "description": "SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.\n",
+      "description": "SignDict is a german dictionary for sign language using the GSL. Currently it has over 4000 signs listed.\n",
       "license": "MPL-2.0",
       "name": "SignDict",
       "programmingLanguages": [
@@ -496,7 +495,6 @@
       ],
       "licenseUrl": "https://github.com/signdict/website/blob/master/LICENSE",
       "naturalLanguages": [
-        "English",
         "German"
       ]
     }

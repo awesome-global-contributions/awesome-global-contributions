@@ -1,7 +1,6 @@
 ---
 description: >
-  SignDict is a english and german dictionary for sign language
-  (using the GSL and DGS respectively).
+  SignDict is a german dictionary for sign language using the GSL.
   Currently it has over 4000 signs listed.
 license: MPL-2.0
 name: SignDict
@@ -29,5 +28,4 @@ frameworksUsed:
   - Vue.js
 licenseUrl: "https://github.com/signdict/website/blob/master/LICENSE"
 naturalLanguages:
-  - English
   - German

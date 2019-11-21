@@ -83,7 +83,7 @@ In addition the core team also maintains a set of free and effective lessons tha
 * [website](https://www.oppia.org) | [repo](https://github.com/oppia/oppia)
 
 ### SignDict
-SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.
+SignDict is a german dictionary for sign language using the GSL. Currently it has over 4000 signs listed.
 
 * rating: 5
 * license: MPL-2.0
@@ -133,7 +133,7 @@ At the current time it has also been translated into [24 different languages](ht
 * [website](http://www.optikey.org) | [repo](https://github.com/OptiKey/OptiKey)
 
 ### SignDict
-SignDict is a english and german dictionary for sign language (using the GSL and DGS respectively). Currently it has over 4000 signs listed.
+SignDict is a german dictionary for sign language using the GSL. Currently it has over 4000 signs listed.
 
 * rating: 5
 * license: MPL-2.0
