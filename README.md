@@ -32,7 +32,7 @@ Free and open database for farming and gardening knowledge. Their mission is to 
 ### Open Food Network
 The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.
 
-* rating: 5
+* rating: 9
 * license: AGPL-3.0
 * [website](https://openfoodnetwork.org) | [repo](https://github.com/openfoodfoundation/openfoodnetwork/)
 
@@ -151,7 +151,7 @@ SignDict is a german dictionary for sign language using the GSL. Currently it ha
 ### Open Food Network
 The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connects farmers with individuals and local businesses.
 
-* rating: 5
+* rating: 9
 * license: AGPL-3.0
 * [website](https://openfoodnetwork.org) | [repo](https://github.com/openfoodfoundation/openfoodnetwork/)
 
