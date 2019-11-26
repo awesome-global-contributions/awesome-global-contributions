@@ -655,6 +655,7 @@
       "rating": 5,
       "repoUrl": "https://github.com/uptake/autofocus",
       "websiteUrl": "https://www.uptake.org/impact/special-projects",
+      "contributionGuidelinesUrl": "https://github.com/uptake/autofocus/blob/master/CONTRIBUTING.md",
       "starsUrl": "https://img.shields.io/github/stars/uptake/autofocus.svg?style=social&label=Star&maxAge=2592000",
       "numberContributors": {
         "url": "https://api.github.com/repos/uptake/autofocus/stats/contributors",
