@@ -3,11 +3,6 @@
 Awesome Open Source projects dedicated to tackling global challenges and
 friendly to volunteering software engineers.
 
-> This curated list started from [this Reddit
-discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awesome_list_of_open_source_projects/)
-and [this initial contribution from Pangloss
-Labs](https://panglosslabs.org/projects/osprojgc/).
-
 <TOC>
 
 <AWESOME_LIST>
