@@ -11,6 +11,49 @@ discussion](https://www.reddit.com/r/opensource/comments/ccojzw/is_there_an_awes
 and [this initial contribution from Pangloss
 Labs](https://panglosslabs.org/projects/osprojgc/).
 
+<!--ts-->
+   * [Awesome Global Contributions <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/d3e4785b25c9fff7a488fac6ae97b6d9a9485106/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge-flat2.svg" style="max-width:100\x;"></a> <a href="https://www.repostatus.org/#concept" rel="nofollow"><img src="https://camo.githubusercontent.com/8b4ed58e7ffe3596b5e5b6f2809626e9ecaaafa5/68747470733a2f2f7777772e7265706f7374617475732e6f72672f6261646765732f6c61746573742f636f6e636570742e737667" alt="Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept." data-canonical-src="https://www.repostatus.org/badges/latest/concept.svg" style="max-width:100\x;"></a>](#awesome-global-contributions--)
+      * [SDG 1: No poverty](#sdg-1-no-poverty)
+         * [Fineract](#fineract)
+      * [SDG 2: Zero hunger](#sdg-2-zero-hunger)
+         * [OpenFarm](#openfarm)
+         * [Open Food Network](#open-food-network)
+      * [SDG 3: Good health and well-being](#sdg-3-good-health-and-well-being)
+         * [Bahmni](#bahmni)
+         * [ERPNext](#erpnext)
+         * [GNU Health](#gnu-health)
+         * [Safecast](#safecast)
+      * [SDG 4: Quality education](#sdg-4-quality-education)
+         * [Kolibri](#kolibri)
+         * [MediaWiki](#mediawiki)
+         * [Oppia](#oppia)
+         * [SignDict](#signdict)
+      * [SDG 6: Clean water and sanitation](#sdg-6-clean-water-and-sanitation)
+         * [ffem](#ffem)
+      * [SDG 9: Industry, Innovation and infrastructure](#sdg-9-industry-innovation-and-infrastructure)
+         * [Safecast](#safecast-1)
+      * [SDG 10: Reduced inequalities](#sdg-10-reduced-inequalities)
+         * [A11Y](#a11y)
+         * [Oppia](#oppia-1)
+         * [OptiKey](#optikey)
+         * [SignDict](#signdict-1)
+      * [SDG 12: Responsible consumption and production](#sdg-12-responsible-consumption-and-production)
+         * [Open Food Network](#open-food-network-1)
+      * [SDG 14: Life below water](#sdg-14-life-below-water)
+         * [ffem](#ffem-1)
+         * [Union VMS](#union-vms)
+      * [SDG 15: Life on land](#sdg-15-life-on-land)
+         * [Autofocus](#autofocus)
+         * [ffem](#ffem-2)
+      * [SDG 16: Peace, Justice and strong institutions](#sdg-16-peace-justice-and-strong-institutions)
+         * [Alaveteli](#alaveteli)
+         * [Callisto](#callisto)
+         * [Serenata de amor](#serenata-de-amor)
+      * [SDG 17: Partnerships for the goals](#sdg-17-partnerships-for-the-goals)
+         * [CharityBase](#charitybase)
+         * [Twilio.org Rapid Response Kit](#twilioorg-rapid-response-kit)
+<!--te-->
+
 ## SDG 1: No poverty
 
 ### Fineract
@@ -234,4 +277,3 @@ A collection and combination of multiple different tools for all possible commun
 * rating: 3
 * license: MIT
 * [website](https://www.twilio.org/) | [repo](https://github.com/Twilio-org/rapid-response-kit)
-
