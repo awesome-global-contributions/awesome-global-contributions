@@ -18,8 +18,7 @@ repoUrl: "https://github.com/OptiKey/OptiKey"
 sdgs: [ 10 ] 
 websiteUrl: "http://www.optikey.org"
 
-contributionGuidelinesUrl: "https://github.com/OptiKey/OptiKey/blob/master/\
-                            CONTRIBUTING.md"
+contributionGuidelinesUrl: https://github.com/OptiKey/OptiKey/wiki/Contribute
 logoUrl: "https://raw.githubusercontent.com/OptiKey/OptiKey/gh-pages/images/\
           OptiKey-logo-600x200.png"
 starsUrl: "https://img.shields.io/github/stars/OptiKey/OptiKey.svg\
