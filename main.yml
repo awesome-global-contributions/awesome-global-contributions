@@ -15,7 +15,9 @@ jobs:
         file_or_dir: src/
         strict: true
     - name: Generate markdown and json
-      run: sh bin/yaml2markdown.sh
+      uses: awesome-global-contributions/action-yq@v0.1.0
+      with:
+        file: bin/yaml2markdown.sh
     - name: Add new commit
       uses: github-actions-x/commit@v2.2
       with:
