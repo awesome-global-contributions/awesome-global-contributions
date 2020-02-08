@@ -12,7 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2.0.0
     - name: Yaml Lint
-      uses: ibiqlik/action-yamllint@v0.0.1
+      uses: ibiqlik/action-yamllint@v0.0.2
       with:
         file_or_dir: src/*.yaml
         strict: true
@@ -21,7 +21,7 @@ jobs:
       with:
         file: bin/yaml2markdown.sh
     - name: Add new commit
-      uses: github-actions-x/commit@v2.2
+      uses: github-actions-x/commit@v2.4
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "chore: yaml2markdown.sh"
