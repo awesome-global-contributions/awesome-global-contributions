@@ -9,6 +9,8 @@ jobs:
   build-yaml:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2.0.0
     - name: Yaml Lint
       uses: ibiqlik/action-yamllint@v0.0.1
       with:
