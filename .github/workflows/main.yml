@@ -12,7 +12,7 @@ jobs:
     - name: Yaml Lint
       uses: ibiqlik/action-yamllint@v0.0.1
       with:
-        file_or_dir: src/
+        file_or_dir: src/*.yaml
         strict: true
     - name: Generate markdown and json
       uses: awesome-global-contributions/action-yq@v0.1.1
