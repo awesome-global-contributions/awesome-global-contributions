@@ -2,7 +2,8 @@
 # Taken from their website's "What is CharityBase?"
 description: >
   Charity Base is an API that aggregates data from the 168,000 charities
-  registered in England and Wales - potentially expanding to other countries in the future.
+  registered in England and Wales - potentially expanding to other countries in
+  the future.
 # One Project is also licensed under Apache-2.0 and some don't have
 # a license
 license: MIT
@@ -10,18 +11,20 @@ name: CharityBase
 programmingLanguages:
   - javascript
   - python
-rating: 2 # Because of the bad documentation and Contribution guide
+rating: 2  # Because of the bad documentation and Contribution guide
 repoUrl: "https://github.com/charity-base?tab=repositories"
 sdgs: [17]
 websiteUrl: "https://charitybase.uk/"
 
 # Sadly really bad
-contributionGuidelinesUrl: "https://github.com/charity-base/charity-base-api/wiki/Contributing"
+contributionGuidelinesUrl: "https://github.com/charity-base/charity-base-api/\
+                            wiki/Contributing"
 logoUrl: "https://avatars2.githubusercontent.com/u/37305377"
-starsUrl: "https://img.shields.io/github/stars/charity-base/charity-base-api.svg\
-           ?style=social&label=Star&maxAge=2592000"
+starsUrl: "https://img.shields.io/github/stars/charity-base/charity-base-api.\
+           svg?style=social&label=Star&maxAge=2592000"
 numberContributors:
-  url: "https://api.github.com/repos/charity-base/charity-base-api/stats/contributors"
+  url: "https://api.github.com/repos/charity-base/charity-base-api/stats/\
+        contributors"
   format: json
   accessor: list
 
@@ -31,6 +34,7 @@ frameworksUsed:
   - GraphQL
   - Apollo
   - d3
-licenseUrl: "https://github.com/charity-base/charity-base-api/blob/master/LICENSE"
+licenseUrl: "https://github.com/charity-base/charity-base-api/blob/master/\
+             LICENSE"
 naturalLanguages:
   - English

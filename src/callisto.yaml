@@ -15,7 +15,7 @@ programmingLanguages:
 rating: 5
 repoUrl: "https://github.com/project-callisto/callisto-core/"
 # Specifically fits because of 16.1.3
-sdgs: [ 16 ]
+sdgs: [16]
 websiteUrl: "https://www.projectcallisto.org"
 
 contributionGuidelinesUrl: "https://github.com/project-callisto/callisto-core/\

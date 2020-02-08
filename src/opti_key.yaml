@@ -15,7 +15,7 @@ programmingLanguages:
   - c#
 rating: 4
 repoUrl: "https://github.com/OptiKey/OptiKey"
-sdgs: [ 10 ] 
+sdgs: [10]
 websiteUrl: "http://www.optikey.org"
 
 contributionGuidelinesUrl: https://github.com/OptiKey/OptiKey/wiki/Contribute
@@ -39,4 +39,3 @@ frameworksUsed:
 licenseUrl: "https://github.com/OptiKey/OptiKey/blob/master/LICENSE.txt"
 naturalLanguages:
   - English
-

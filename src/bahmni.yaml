@@ -1,5 +1,5 @@
 ---
-# Description taken through a synthesis of the github 
+# Description taken through a synthesis of the github
 # description and their FAQ
 description: >
   Bahmni is an Open Source hospital Management System focusing
@@ -27,9 +27,13 @@ repoUrl: "https://github.com/Bahmni"
 sdgs: [3]
 websiteUrl: "https://www.bahmni.org/"
 
-contributionGuidelinesUrl: "https://bahmni.atlassian.net/wiki/spaces/BAH/pages/116069555/Contributing+to+Bahmni"
-logoUrl: "https://images.squarespace-cdn.com/content/54358a40e4b0d0810faf80c2/1449227490774-VM0J81B5NXHRUIGXPF5H/Bahmni+logo+black+font.png?format=1500w&content-type=image%2Fpng"
-starsUrl: "https://img.shields.io/github/stars/Bahmni/openmrs-module-bahmniapps.svg?style=social&maxAge=2592000"
+contributionGuidelinesUrl: "https://bahmni.atlassian.net/wiki/spaces/BAH/pages/\
+                            116069555/Contributing+to+Bahmni"
+logoUrl: "https://images.squarespace-cdn.com/content/54358a40e4b0d0810faf80c2/\
+          1449227490774-VM0J81B5NXHRUIGXPF5H/Bahmni+logo+black+font.png?format=\
+          1500w&content-type=image%2Fpng"
+starsUrl: "https://img.shields.io/github/stars/Bahmni/openmrs-module-bahmniapps\
+           .svg?style=social&maxAge=2592000"
 
 frameworksUsed:
   - OpenMRS
