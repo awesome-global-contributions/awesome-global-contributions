@@ -1,0 +1,52 @@
+---
+# taken from github readme
+description: >
+  If me is a community for mental health experiences that encourages people
+  to share their presonal stories with trusted allies.
+license: AGPL-3.0
+name: if me
+programmingLanguages:
+  - ruby
+  - javascript
+  - html
+  - css
+rating: 5
+repoUrl: "https://github.com/ifmeorg/ifme"
+sdgs: [2]
+websiteUrl: "http://www.if-me.org/"
+
+contributionGuidelinesUrl: "https://github.com/ifmeorg/ifme/blob/master/\
+                            CONTRIBUTING.md"
+# no proper logoUrl found
+starsUrl: "https://img.shields.io/github/stars/ifmeorg/ifme.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: "https://api.github.com/repos/ifmeorg/ifme/stats/contributors"
+  format: json
+  accessor: list
+
+ratingComment: Well organised and documented. Very good contributors guide
+otherLinks:
+  - name: Live Demo
+    # you can provide name/link without description
+    description: Live Demo of the project in action
+    link: https://live.project.com
+frameworksUsed:
+  - react on rails
+  - rails
+  - storybook
+  - react
+licenseUrl: "https://github.com/ifmeorg/ifme/blob/master/LICENSE.txt"
+naturalLanguages:
+  - English
+  - Spanish
+  - German
+  - Italian
+  - Norwegian bokmål
+  - Dutch
+  - Portuguese (Brazil)
+  - Swedish
+  - Vietnamese
+  - French
+  - Hindi
+  - Chinese
