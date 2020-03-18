@@ -24,3 +24,5 @@ jobs:
       uses: zwaldowski/git-commit-action@v1
       with:
         commit_message: "chore: yaml2markdown.sh"
+    - name: Push new commit
+      run: git push https://${{ GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ GITHUB_REPOSITORY }}.git
