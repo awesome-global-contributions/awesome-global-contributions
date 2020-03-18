@@ -25,4 +25,3 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "chore: yaml2markdown.sh"
-        files: README.md dist/projects_by_sdg.json
