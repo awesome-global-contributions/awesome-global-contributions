@@ -29,6 +29,56 @@
   ],
   "2": [
     {
+      "description": "If me is a community for mental health experiences that encourages people to share their presonal stories with trusted allies.\n",
+      "license": "AGPL-3.0",
+      "name": "if me",
+      "programmingLanguages": [
+        "ruby",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/ifmeorg/ifme",
+      "websiteUrl": "http://www.if-me.org/",
+      "contributionGuidelinesUrl": "https://github.com/ifmeorg/ifme/blob/master/CONTRIBUTING.md",
+      "starsUrl": "https://img.shields.io/github/stars/ifmeorg/ifme.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/ifmeorg/ifme/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "Well organised and documented. Very good contributors guide",
+      "otherLinks": [
+        {
+          "name": "Live Demo",
+          "description": "Live Demo of the project in action",
+          "link": "https://live.project.com"
+        }
+      ],
+      "frameworksUsed": [
+        "react on rails",
+        "rails",
+        "storybook",
+        "react"
+      ],
+      "licenseUrl": "https://github.com/ifmeorg/ifme/blob/master/LICENSE.txt",
+      "naturalLanguages": [
+        "English",
+        "Spanish",
+        "German",
+        "Italian",
+        "Norwegian bokmål",
+        "Dutch",
+        "Portuguese (Brazil)",
+        "Swedish",
+        "Vietnamese",
+        "French",
+        "Hindi",
+        "Chinese"
+      ]
+    },
+    {
       "description": "Free and open database for farming and gardening knowledge. Their mission is to develop a community and tools for freely sharing plant knowledge locally and globally.\n",
       "license": "MIT, CC0",
       "name": "OpenFarm",
@@ -489,7 +539,7 @@
       "rating": 4,
       "repoUrl": "https://github.com/OptiKey/OptiKey",
       "websiteUrl": "http://www.optikey.org",
-      "contributionGuidelinesUrl": "https://github.com/OptiKey/OptiKey/blob/master/CONTRIBUTING.md",
+      "contributionGuidelinesUrl": "https://github.com/OptiKey/OptiKey/wiki/Contribute",
       "logoUrl": "https://raw.githubusercontent.com/OptiKey/OptiKey/gh-pages/images/OptiKey-logo-600x200.png",
       "starsUrl": "https://img.shields.io/github/stars/OptiKey/OptiKey.svg?style=social&label=Star&maxAge=2592000",
       "numberContributors": {

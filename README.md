@@ -22,6 +22,13 @@ Mature platform with open APIs that provides a reliable, robust, and affordable 
 
 ## SDG 2: Zero hunger
 
+### if me
+If me is a community for mental health experiences that encourages people to share their presonal stories with trusted allies.
+
+* rating: 5
+* license: AGPL-3.0
+* [website](http://www.if-me.org/) | [repo](https://github.com/ifmeorg/ifme)
+
 ### OpenFarm
 Free and open database for farming and gardening knowledge. Their mission is to develop a community and tools for freely sharing plant knowledge locally and globally.
 
