@@ -21,7 +21,6 @@ jobs:
       with:
         file: bin/yaml2markdown.sh
     - name: Add new commit
-      uses: github-actions-x/commit@v2.4
+      uses: zwaldowski/git-commit-action@v1
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "chore: yaml2markdown.sh"
+        commit_message: "chore: yaml2markdown.sh"
