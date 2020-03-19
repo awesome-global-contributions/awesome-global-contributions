@@ -1,0 +1,42 @@
+repoUrl: 'https://github.com/ushahidi/Ushahidi_Web'
+name: Ushahidi
+description: >-
+  A platform that allows information collection, visualization and interactive
+  mapping, allowing anyone to submit information through text messaging using a
+  mobile phone, email or web form.
+
+  This should help to give power to marginalized people.
+websiteUrl: 'http://www.ushahidi.com'
+license: GPL-3.0
+sdgs:
+  - 10
+programmingLanguages:
+  - PHP
+  - JavaScript
+  - CSS
+  - HTML
+  - ApacheConf
+rating: 3
+ratingComment: ''
+contributionGuidelinesUrl: "https://github.com/ushahidi/Ushahidi_Web/\
+  blob/develop/CONTRIBUTING.md"
+logoUrl: ''
+starsUrl: "https://img.shields.io/github/stars/ushahidi/Ushahidi_Web.svg\
+  ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: 'https://api.github.com/repos/ushahidi/Ushahidi_Web/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: API Project
+    description: Github project for the ushahidi API
+    link: 'https://github.com/ushahidi/platform'
+  - name: Client Project Web Client
+    description: Github project for the ushahidi
+    link: 'https://github.com/ushahidi/platform-client'
+frameworksUsed:
+  - mySQL
+  - Kohana
+licenseUrl: 'https://github.com/ushahidi/Ushahidi_Web/blob/develop/License.txt'
+naturalLanguages:
+  - English
