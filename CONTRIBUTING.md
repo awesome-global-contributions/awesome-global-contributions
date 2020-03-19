@@ -1,4 +1,4 @@
-# Contribution Guideline
+# Contribution Guideline: Adding a project
 
 First up, thank you for wanting to contribute to this project :).
 This document will guide you through all the steps necessary in
@@ -6,38 +6,44 @@ order to add your project to this list.
 If you encounter problems while doing so, please don't hesitate
 to open an issue.
 
-## First step: Fork this repository
+We've done our best to make it as easy as possible to add a new
+project.
+_You don't even need to leave the browser!_
 
-Since we auto-generate a few files, it's not possible to use
-GitHub's online editor to add new projects.
+## 1. Add a new Project yaml file
 
-Therefore, you will first have to fork and clone the repository.
-Then commit all of your changes on a new branch named
-`proj/<project name>`.
+First create a new Project yaml file.
+You can do so by clicking [this link](https://github.com/awesome-global-contributions/awesome-global-contributions/new/master/src).
 
-For this, you first have to click `fork` on the top right.
+Please name it `project_name_in_lowercase.yaml`.
+We'll add the content in the next step.
 
-![Highlighted fork button](static/img/contributing/how-to-fork.jpg)
+## 2. Fill out the project information
 
-[Then clone the repository](https://help.github.com/en/articles/cloning-a-repository)
-and finally use a [new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work)
-to work on.
-This will be necessary for the pull request in the
-[last step](#fourth-and-last-step-create-a-pull-request)
+Now you have two ways to add the information of the project:
 
-## Second step: Add your Project details
+1. The recommended method is to use the
+    [online editor](https://awesome-global-contributions.github.io/#/create).
+    This editor can automatically fetch a lot of information if
+    you give it a link to a github repository.
+2. The second is to copy the contents of
+    [ENTRY_TEMPLATE.yaml](https://github.com/awesome-global-contributions/awesome-global-contributions/blob/master/ENTRY_TEMPLATE.yaml)
+    into your new file and then fill out all of the values.
 
-Simply copy the file [`ENTRY_TEMPLATE.yaml`](./ENTRY_TEMPLATE.yaml) into the `src` folder
-file and rename it to use the name of your project
-(e.g. `my_awesome_project.yaml`).
+In both cases please make sure to not have more than 80 characters
+in one line or else our lint-check will fail.
+The online editor does a good job for it if there is enough
+whitespace to insert linebreaks.
 
-The single entries are further explained below.
-You can also find an [example result](#Example-based-on-this-project)
-that uses our project as a baseline.
+Else you can use an escaped linebreak like this:
 
-> TODO: Depends on [interface of the converter](https://github.com/awesome-global-contributions/awesome-global-contributions/issues/8)
->
-> Will the parser also show error messages for invalid files?
+```yaml
+starsUrl: "https://img.shields.io/github/stars/org/project.svg\
+           ?style=social&label=Star&maxAge=2592000"
+```
+
+In case some of the entries are not clear, all of them are
+described in detail here:
 
 ### Necessary information
 
@@ -49,12 +55,14 @@ the project should be added to this list.
     file and on the website.
     Explain why the project is awesome and why somebody might want
     to contribute to it
-- `globalIssues`: This is a list of fitting issue, corresponding
-    with the headings of the README.
-    The project will be listed under each issue.
-    For a full list of issues see [\<somewhere\>]().
-    > TODO: Define list of global issues
+- `sdgs`: The [SDGs](https://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
+    that can be associated with the project.
+    It's a simple list of the numbers of the goals.
 - `license`: Simply fill out the name of the license the project uses.
+    Generally we accept any that are approved by the Open Source
+    Initiative (see list [here](https://opensource.org/licenses/alphabetical)).
+    If you want to add a project with a different license, you can
+    still create a PR, but please mention it in the description.
 - `programmingLanguages`: List all of the programming languages, that
     the project uses.
     They have to be all lowercase and can use special characters
@@ -68,13 +76,11 @@ the project should be added to this list.
     <!-- See the [guide]() to know what number to give it. -->
     > TODO: Define ratings
 
-### Overwrite Information
+### Optional fields
 
-We will try to automatically extrapolate some of the information based
-on the ones already provided.
-Since the project may be hosted on any website, this is not always possible.
-For those from unsupported sites, you will need to fill out the
-following items:
+The following elements will not lead to an error when they are not present.
+If possible, they should still be filled out, but not every project will provide
+the necessary data.
 
 - `contributionGuidelinesUrl`: The URL to the contribution guidelines
     of the project.
@@ -112,18 +118,8 @@ following items:
         format: json
         accessor: "?numberOfContributors"
     ```
-
-### Optional fields
-
-The following elements will not lead to an error when they are not present.
-If possible, they should still be filled out, but not every project will provide
-the necessary data.
-
 - `ratingComment`: A comment on the given rating
 - `licenseUrl`: Link to the license of the project.
-- `sdgs`: The [SDGs](https://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
-    that can be associated with the project.
-    It's a simple list of the numbers of the goals.
 - `naturalLanguages`: While the most common language for international projects
     is English, this list hosts projects from everywhere in the world.
     List all languages that the project's company communicates in.
@@ -150,7 +146,7 @@ programmingLanguages:
 rating: 5
 repoUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
 sdgs: [9, 17]
-websiteUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions"
+websiteUrl: "https://awesome-global-contributions.github.io/"
 
 contributionGuidelinesUrl: "https://github.com/awesome-global-contributions/awesome-global-contributions/blob/master/CONTRIBUTING.md"
 logoUrl: ""
@@ -165,25 +161,23 @@ naturalLanguages:
   - English
 ```
 
-> TODO: Add proper issues, website link and logoUrl
+## 3. Send us the PR
 
-## Third step: Auto-Generate files
+Simply click the button and let Github create the PR for you.
 
-Requirements:
-* Python 3
-* [yq](https://github.com/kislyuk/yq)
+Common style for both the commit and the PR title is: `proj: My great Project`
 
-Steps:
-```sh
-$ ./bin/yaml2markdown.sh
-```
+We will automatically lint the YAML file when you create the PR.
+After merging it, we will also regenerate the README and json
+file which is used on the website.
 
-## Fourth and last step: Create a pull request
+# Contribution Guide: Other improvements
 
-First commit using the commit template and then push to your own fork.
+If you have other improvements for this project, feel free to
+send a PR or open an issue.
 
-Afterwards navigate to the [original repository](https://github.com/awesome-global-contributions/awesome-global-contributions)
-and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
-If you've followed all of the formatting rules and your project does meet the
-requirements, a maintainer will integrate it into the list.
-Otherwise you will be contacted.
+If you want to help improve the website, this is also very much
+welcomed.
+Since we do not maintain a contribution guide for it, just create
+an issue.
+We'll try to help you out as much as possible.

@@ -44,10 +44,10 @@ repoUrl: "https://github.com/org/project/"
 sdgs: [1, 3]  # list of integers, from 1 to 17
 websiteUrl: "https://project.org"
 
-# OVERWRITE GENERATED FIELDS
-# We will attempt to auto-generate these
-# values, but aren't always able to do so.
-# Please overwrite if needed. (TODO: Provide link to more information)
+# OPTIONAL FIELDS
+# These fields may be empty.
+# If they fit the project, please still
+# try to fill them out
 
 contributionGuidelinesUrl: "https:/project.org/contribute/"
 logoUrl: ""
@@ -60,12 +60,6 @@ numberContributors:
   url: "https://api.github.com/repos/org/proj/stats/contributors"
   format: json  # or yaml or xml
   accessor: list  # or number or property name prepended by ?
-
-# OPTIONAL FIELDS
-# These fields may be empty.
-# If they fit the project, please still
-# try to fill them out
-
 ratingComment: Optional explanation for the rating
 # Other link not fitting into the other categories
 otherLinks:
