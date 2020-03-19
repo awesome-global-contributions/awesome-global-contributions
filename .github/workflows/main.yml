@@ -1,4 +1,4 @@
-name: main
+name: yamllint
 
 on:
   pull_request:
@@ -16,16 +16,3 @@ jobs:
       with:
         file_or_dir: src/*.yaml
         strict: true
-    - name: Generate markdown and json
-      uses: awesome-global-contributions/action-yq@v0.1.2
-      with:
-        file: bin/yaml2markdown.sh
-    - name: Add new commit
-      uses: zwaldowski/git-commit-action@v1
-      with:
-        commit_message: "chore: yaml2markdown.sh"
-    - name: Push new commit
-      uses: ad-m/github-push-action@v0.5.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.head_ref }}
