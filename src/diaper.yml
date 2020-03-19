@@ -1,0 +1,39 @@
+---
+repoUrl: 'https://github.com/rubyforgood/diaper'
+name: diaper
+description: >-
+  Diaperbase is an inventory system for diaper banks, to aid them in tracking
+  their inventory and providing statistics about their inventory flows.
+websiteUrl: 'https://diaper.app'
+license: MIT
+sdgs:
+  - 3
+  - 6
+programmingLanguages:
+  - Ruby
+  - CSS
+  - HTML
+  - JavaScript
+  - Shell
+rating: 3
+ratingComment: ''
+contributionGuidelinesUrl: "https://github.com/rubyforgood/diaper/\
+  blob/master/CONTRIBUTING.md"
+logoUrl: 'https://diaper.app/img/diaper-base-logo-full.svg'
+starsUrl: "https://img.shields.io/github/stars/rubyforgood/diaper.svg\
+  ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: 'https://api.github.com/repos/rubyforgood/diaper/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: National Diaper bank Network
+    description: >-
+      Facts on diapers needs in the US by the organization behind
+      the Diaper project
+    url: https://nationaldiaperbanknetwork.org/diaper-need/
+frameworksUsed:
+  - Ruby on Rails
+licenseUrl: 'https://github.com/rubyforgood/diaper/blob/master/LICENSE'
+naturalLanguages:
+  - English
