@@ -198,11 +198,16 @@ gh_toc_grab() {
     # format result line
     #   * $0 — whole string
     #   * last element of each row: "</hN" where N in (1,2,3,...)
+
+    # note that i = 1 is on purpose and specifically for awesome-global-contributions
+    # since we do not generate any 1st level headers
     echo -e "$(awk -v "gh_url=$1" '{
     level = substr($0, length($0), 1)
     text = substr($0, match($0, /a>.*<\/h/)+2, RLENGTH-5)
     href = substr($0, match($0, "href=\"[^\"]+?\"")+6, RLENGTH-7)
-    print sprintf("%*s", level*3, " ") "* [" text "](" gh_url  href ")" }' |
+    i = 1
+    while (i++ < level) printf "  "
+    print "- [" text "](" gh_url  href ")" }' |
         sed 'y/+/ /; s/%/\\x/g')"
 }
 
