@@ -12,7 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2.0.0
     - name: Generate markdown and json
-      uses: awesome-global-contributions/action-yq@v0.1.2
+      uses: awesome-global-contributions/action-yq@v1.0.1
       with:
         file: bin/yaml2markdown.sh
     - name: Add new commit
