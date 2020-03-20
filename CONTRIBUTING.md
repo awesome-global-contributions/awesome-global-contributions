@@ -179,5 +179,5 @@ send a PR or open an issue.
 If you want to help improve the website, this is also very much
 welcomed.
 Since we do not maintain a contribution guide for it, just create
-an issue.
+an issue on [its github page](https://github.com/awesome-global-contributions/awesome-global-contributions.github.io/issues).
 We'll try to help you out as much as possible.
