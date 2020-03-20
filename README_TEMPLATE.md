@@ -3,7 +3,6 @@
 Awesome Open Source projects dedicated to tackling global challenges and
 friendly to volunteering software engineers.
 
-<!--ts-->
-<!--te-->
+<TOC>
 
 <AWESOME_LIST>
