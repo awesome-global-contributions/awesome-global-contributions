@@ -1,0 +1,44 @@
+---
+repoUrl: 'https://github.com/farmOS/farmOS'
+name: farmOS
+description: >-
+  farmOS is a web-based application for farm management, planning, and record
+  keeping. It is developed by a community of farmers, developers, researchers,
+  and organizations with the aim of providing a standard platform for
+  agricultural data collection and management.
+websiteUrl: 'https://farmOS.org'
+license: GPL-2.0
+sdgs:
+  - 2
+programmingLanguages:
+  - PHP
+  - JavaScript
+  - Makefile
+  - CSS
+  - Dockerfile
+  - Shell
+rating: 5
+ratingComment: ''
+contributionGuidelinesUrl: 'https://farmos.org/community/contribute/'
+logoUrl: ''
+starsUrl: "https://img.shields.io/github/stars/farmOS/farmOS.svg\
+           ?style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: 'https://api.github.com/repos/farmOS/farmOS/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: Monthly calls
+    description: >-
+      Community zoom calls where everyone is invited to ask questions,
+      brainstorm ideas, or just talk farming.
+    link: 'https://farmos.org/community/monthly-call/'
+  - name: Client app
+    description: Github repository for the client app
+    link: 'https://github.com/farmOS/farmOS-client'
+frameworksUsed:
+  - drupal
+  - docker
+licenseUrl: 'https://github.com/farmOS/farmOS/blob/7.x-1.x/LICENSE.txt'
+naturalLanguages:
+  - English
