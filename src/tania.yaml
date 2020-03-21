@@ -1,0 +1,38 @@
+---
+repoUrl: 'https://github.com/Tanibox/tania-core'
+name: Tania
+description: >-
+  Tania is a free and open source farm management software. You can manage your
+  farm areas, farm reservoirs, farm tasks, inventories, and the crop growing
+  progress. It is designed for any type of farms.
+websiteUrl: 'https://usetania.org'
+license: Apache-2.0
+sdgs:
+  - 2
+programmingLanguages:
+  - Go
+  - Vue
+  - JavaScript
+  - TSQL
+  - CSS
+  - HTML
+  - Makefile
+  - Shell
+  - Ruby
+rating: 3
+ratingComment: ''
+contributionGuidelinesUrl: "https://github.com/Tanibox/tania-core/blob/master/\
+  contributing.md"
+logoUrl: 'https://usetania.org/images/logo-dark.svg'
+starsUrl: >-
+  https://img.shields.io/github/stars/Tanibox/tania-core.svg?style=social&label=Star&maxAge=2592000
+numberContributors:
+  url: 'https://api.github.com/repos/Tanibox/tania-core/contributors'
+  format: json
+  accessor: list
+otherLinks: []
+frameworksUsed:
+  - Vue.js
+licenseUrl: 'https://github.com/Tanibox/tania-core/blob/master/LICENSE'
+naturalLanguages:
+  - English
