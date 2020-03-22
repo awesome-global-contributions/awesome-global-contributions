@@ -6,7 +6,13 @@
 Awesome Open Source projects dedicated to tackling global challenges and
 friendly to volunteering software engineers.
 
-<!--te-->
+GitHub TOC generator (gh-md-toc): 0.6.1
+
+Usage:
+  gh-md-toc [--insert] src [src]  Create TOC for a README file (url or local path)
+  gh-md-toc -                     Create TOC for markdown from STDIN
+  gh-md-toc --help                Show help
+  gh-md-toc --version             Show version
 
 ## SDG 1: No poverty
 
