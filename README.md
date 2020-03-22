@@ -55,6 +55,12 @@ Bahmni is an Open Source hospital Management System focusing on poor/underserved
 * license: AGPL-3.0
 * [website](https://www.bahmni.org/) | [repo](https://github.com/Bahmni)
 
+### diaper
+Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.
+* rating: 3
+* license: MIT
+* [website](https://diaper.app) | [repo](https://github.com/rubyforgood/diaper)
+
 ### ERPNext
 ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offers a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.
 
@@ -107,6 +113,12 @@ SignDict is a german dictionary for sign language using the GSL. Currently it ha
 * [website](https://signdict.org) | [repo](https://github.com/signdict/website)
 
 ## SDG 6: Clean water and sanitation
+
+### diaper
+Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.
+* rating: 3
+* license: MIT
+* [website](https://diaper.app) | [repo](https://github.com/rubyforgood/diaper)
 
 ### ffem
 The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil

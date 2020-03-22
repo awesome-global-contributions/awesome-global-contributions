@@ -196,6 +196,44 @@
       "licenseUrl": "https://www.gnu.org/licenses/agpl-3.0.html"
     },
     {
+      "repoUrl": "https://github.com/rubyforgood/diaper",
+      "name": "diaper",
+      "description": "Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
+      "websiteUrl": "https://diaper.app",
+      "license": "MIT",
+      "programmingLanguages": [
+        "Ruby",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Shell"
+      ],
+      "rating": 3,
+      "ratingComment": "",
+      "contributionGuidelinesUrl": "https://github.com/rubyforgood/diaper/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://diaper.app/img/diaper-base-logo-full.svg",
+      "starsUrl": "https://img.shields.io/github/stars/rubyforgood/diaper.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/rubyforgood/diaper/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "otherLinks": [
+        {
+          "name": "National Diaper bank Network",
+          "description": "Facts on diapers needs in the US by the organization behind the Diaper project",
+          "url": "https://nationaldiaperbanknetwork.org/diaper-need/"
+        }
+      ],
+      "frameworksUsed": [
+        "Ruby on Rails"
+      ],
+      "licenseUrl": "https://github.com/rubyforgood/diaper/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    },
+    {
       "description": "ERPNext is a top-rated Open Source ERP (Enterprise Resource Planning). Among other features, it also offers a Healthcare module to manage patient data, appointments, lab tests and more. Originally a separate module named smarteCare, it's now integrated in the core itself.\n",
       "license": "GPL-3.0",
       "name": "ERPNext",
@@ -415,6 +453,44 @@
     }
   ],
   "6": [
+    {
+      "repoUrl": "https://github.com/rubyforgood/diaper",
+      "name": "diaper",
+      "description": "Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
+      "websiteUrl": "https://diaper.app",
+      "license": "MIT",
+      "programmingLanguages": [
+        "Ruby",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Shell"
+      ],
+      "rating": 3,
+      "ratingComment": "",
+      "contributionGuidelinesUrl": "https://github.com/rubyforgood/diaper/blob/master/CONTRIBUTING.md",
+      "logoUrl": "https://diaper.app/img/diaper-base-logo-full.svg",
+      "starsUrl": "https://img.shields.io/github/stars/rubyforgood/diaper.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/rubyforgood/diaper/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "otherLinks": [
+        {
+          "name": "National Diaper bank Network",
+          "description": "Facts on diapers needs in the US by the organization behind the Diaper project",
+          "url": "https://nationaldiaperbanknetwork.org/diaper-need/"
+        }
+      ],
+      "frameworksUsed": [
+        "Ruby on Rails"
+      ],
+      "licenseUrl": "https://github.com/rubyforgood/diaper/blob/master/LICENSE",
+      "naturalLanguages": [
+        "English"
+      ]
+    },
     {
       "description": "The Foundation for Environmental Monitoring is a nonprofit company developing open source products including hardware designed to help address issues related to water and soil\n",
       "license": "GPL 3.0",
