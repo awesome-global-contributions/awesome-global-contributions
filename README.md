@@ -25,6 +25,12 @@ Mature platform with open APIs that provides a reliable, robust, and affordable 
 
 ## SDG 2: Zero hunger
 
+### farmOS
+farmOS is a web-based application for farm management, planning, and record keeping. It is developed by a community of farmers, developers, researchers, and organizations with the aim of providing a standard platform for agricultural data collection and management.
+* rating: 5
+* license: GPL-2.0
+* [website](https://farmOS.org) | [repo](https://github.com/farmOS/farmOS)
+
 ### if me
 If me is a community for mental health experiences that encourages people to share their presonal stories with trusted allies.
 
