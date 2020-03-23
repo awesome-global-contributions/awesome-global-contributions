@@ -46,6 +46,12 @@ The Open Food Network is an online marketplace for local food. It enables a netw
 * license: AGPL-3.0
 * [website](https://openfoodnetwork.org) | [repo](https://github.com/openfoodfoundation/openfoodnetwork/)
 
+### Tania
+Tania is a free and open source farm management software. You can manage your farm areas, farm reservoirs, farm tasks, inventories, and the crop growing progress. It is designed for any type of farms.
+* rating: 3
+* license: Apache-2.0
+* [website](https://usetania.org) | [repo](https://github.com/Tanibox/tania-core)
+
 ## SDG 3: Good health and well-being
 
 ### Bahmni
