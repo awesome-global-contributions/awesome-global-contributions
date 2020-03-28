@@ -6,13 +6,56 @@
 Awesome Open Source projects dedicated to tackling global challenges and
 friendly to volunteering software engineers.
 
-GitHub TOC generator (gh-md-toc): 0.6.1
 
-Usage:
-  gh-md-toc [--insert] src [src]  Create TOC for a README file (url or local path)
-  gh-md-toc -                     Create TOC for markdown from STDIN
-  gh-md-toc --help                Show help
-  gh-md-toc --version             Show version
+Table of Contents
+=================
+
+  - [SDG 1: No poverty](#sdg-1-no-poverty)
+    - [Fineract](#fineract)
+  - [SDG 2: Zero hunger](#sdg-2-zero-hunger)
+    - [farmOS](#farmos)
+    - [if me](#if-me)
+    - [OpenFarm](#openfarm)
+    - [Open Food Network](#open-food-network)
+    - [Tania](#tania)
+  - [SDG 3: Good health and well-being](#sdg-3-good-health-and-well-being)
+    - [Bahmni](#bahmni)
+    - [diaper](#diaper)
+    - [ERPNext](#erpnext)
+    - [GNU Health](#gnu-health)
+    - [Safecast](#safecast)
+  - [SDG 4: Quality education](#sdg-4-quality-education)
+    - [Kolibri](#kolibri)
+    - [MediaWiki](#mediawiki)
+    - [Oppia](#oppia)
+    - [SignDict](#signdict)
+  - [SDG 6: Clean water and sanitation](#sdg-6-clean-water-and-sanitation)
+    - [diaper](#diaper-1)
+    - [ffem](#ffem)
+  - [SDG 9: Industry, Innovation and infrastructure](#sdg-9-industry-innovation-and-infrastructure)
+    - [Safecast](#safecast-1)
+  - [SDG 10: Reduced inequalities](#sdg-10-reduced-inequalities)
+    - [A11Y](#a11y)
+    - [Oppia](#oppia-1)
+    - [OptiKey](#optikey)
+    - [SignDict](#signdict-1)
+  - [SDG 12: Responsible consumption and production](#sdg-12-responsible-consumption-and-production)
+    - [Open Food Network](#open-food-network-1)
+  - [SDG 14: Life below water](#sdg-14-life-below-water)
+    - [ffem](#ffem-1)
+    - [Union VMS](#union-vms)
+  - [SDG 15: Life on land](#sdg-15-life-on-land)
+    - [Autofocus](#autofocus)
+    - [ffem](#ffem-2)
+  - [SDG 16: Peace, Justice and strong institutions](#sdg-16-peace-justice-and-strong-institutions)
+    - [Alaveteli](#alaveteli)
+    - [Callisto](#callisto)
+    - [Serenata de amor](#serenata-de-amor)
+  - [SDG 17: Partnerships for the goals](#sdg-17-partnerships-for-the-goals)
+    - [CharityBase](#charitybase)
+    - [Twilio.org Rapid Response Kit](#twilioorg-rapid-response-kit)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## SDG 1: No poverty
 
