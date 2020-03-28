@@ -4,6 +4,7 @@ The following links are somewhat related to this list.
 Many of them list projects similar to those that we feature here, many of which
 were merged into this list.
 
+- [Pangloss Lab's list of Open Source projects for Global Challenges](https://panglosslabs.org/projects/osprojgc/)
 - [awesome-agriculture](https://github.com/beaorn/awesome-agriculture#readme)
 - [awesome-social-impact](https://github.com/OtavioRMachado/awesome-social-impact)
 - [awesome-techforgood](https://github.com/TechforgoodCAST/awesome-techforgood)
