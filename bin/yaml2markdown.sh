@@ -29,7 +29,7 @@ cat $rootDir/README_TEMPLATE.md >> $readme
 projectsReadme="$(python $binDir/generateReadme.py)"
 
 # == Create ToC
-temProjectsFile="$rootDir/tmp_projects.md"
+tempProjectsFile="$rootDir/tmp_projects.md"
 echo "$projectsReadme" > $tempProjectsFile
 
 toc="$($binDir/gh-md-toc $tempProjectsFile)"
