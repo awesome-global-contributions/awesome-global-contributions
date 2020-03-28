@@ -1,0 +1,43 @@
+---
+repoUrl: 'https://github.com/OpenEMS/openems'
+name: OpenEMS
+description: >-
+  OpenEMS is a modular platform for energy management applications. It was
+  developed around the requirements of controlling, monitoring and integrating
+  energy storage systems together with renewable energy sources and
+  complementary devices and services.
+websiteUrl: 'https://openems.io/'
+license: EPL-2.0
+sdgs:
+  - 7
+programmingLanguages:
+  - Java
+  - HTML
+  - TypeScript
+  - Shell
+  - CSS
+  - JavaScript
+  - Dockerfile
+rating: 5
+ratingComment: ''
+contributionGuidelinesUrl: 'https://github.com/OpenEMS/openems#documentation'
+logoUrl: "https://openems.github.io/openems.io/openems/latest/_images/OpenEMS\
+          -Logo.png"
+starsUrl: >-
+  https://img.shields.io/github/stars/OpenEMS/openems.svg?style=social&label=Star&maxAge=2592000
+numberContributors:
+  url: 'https://api.github.com/repos/OpenEMS/openems/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: UI Licensed under AGPL-3.0
+    description: >-
+      The UI part is licensed differently than Edge (on-site controller) and the
+      Backend
+    link: 'https://github.com/OpenEMS/openems/blob/develop/LICENSE-AGPL-3.0'
+frameworksUsed:
+  - Nginx
+  - InfluxDB
+licenseUrl: 'https://github.com/OpenEMS/openems/blob/develop/LICENSE-EPL-2.0'
+naturalLanguages:
+  - English
