@@ -1,0 +1,49 @@
+---
+repoUrl: 'https://github.com/voluntarily/vly2'
+name: Voluntarily
+description: >-
+  Platform for volunteers and projects to find each other. Volunteers can
+  include time, advice or physical things.
+websiteUrl: 'https://live.voluntarily.nz/'
+license: MPL-2.0
+sdgs:
+  - 17
+programmingLanguages:
+  - JavaScript
+  - HTML
+  - CSS
+  - Shell
+  - Dockerfile
+  - Gherkin
+  - JSONiq
+rating: 5
+ratingComment: ''
+contributionGuidelinesUrl: "https://github.com/voluntarily/vly2/blob/master/\
+                            CONTRIBUTING.md"
+logoUrl: "https://images.squarespace-cdn.com/content/v1/5b341f644cde7a925f5224\
+          86/1553751782388-CNEP8IMQ58MPEAGNL3KT/ke17ZwdGBToddI8pDm48kNjpXgdB2G\
+          Q4GXsvq_1og8aoCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp6_MLhNeL9yWw1\
+          amyLjdgohmCNS_LeH4t9qD0d_SmSPc_VumPslpQQgM4-VHAcYf4g/favicon.ico"
+starsUrl: "https://img.shields.io/github/stars/voluntarily/vly2.svg?style=\
+           social&label=Star&maxAge=2592000"
+numberContributors:
+  url: 'https://api.github.com/repos/voluntarily/vly2/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: Get Involved
+    description: More detailed Guide to contribute – not just for developers
+    link: 'https://blog.voluntarily.nz/get-involved'
+  - name: Offer to help
+    description: Offer (non-developing) help
+    link: 'https://live.voluntarily.nz/acts'
+frameworksUsed:
+  - Express
+  - MongoDB
+  - React
+  - Redux
+  - Node.js
+  - next.js
+licenseUrl: 'https://github.com/voluntarily/vly2/blob/master/LICENSE'
+naturalLanguages:
+  - English
