@@ -32,6 +32,8 @@ Table of Contents
   - [SDG 6: Clean water and sanitation](#sdg-6-clean-water-and-sanitation)
     - [diaper](#diaper-1)
     - [ffem](#ffem)
+  - [SDG 7: Affordable and clean energy](#sdg-7-affordable-and-clean-energy)
+    - [OpenEMS](#openems)
   - [SDG 9: Industry, Innovation and infrastructure](#sdg-9-industry-innovation-and-infrastructure)
     - [Safecast](#safecast-1)
   - [SDG 10: Reduced inequalities](#sdg-10-reduced-inequalities)
@@ -181,6 +183,14 @@ The Foundation for Environmental Monitoring is a nonprofit company developing op
 * rating: 5
 * license: GPL 3.0
 * [website](http://ffem.io/about/) | [repo](https://github.com/foundation-for-environmental-monitoring)
+
+## SDG 7: Affordable and clean energy
+
+### OpenEMS
+OpenEMS is a modular platform for energy management applications. It was developed around the requirements of controlling, monitoring and integrating energy storage systems together with renewable energy sources and complementary devices and services.
+* rating: 5
+* license: EPL-2.0
+* [website](https://openems.io/) | [repo](https://github.com/OpenEMS/openems)
 
 ## SDG 9: Industry, Innovation and infrastructure
 
