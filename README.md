@@ -56,6 +56,7 @@ Table of Contents
   - [SDG 17: Partnerships for the goals](#sdg-17-partnerships-for-the-goals)
     - [CharityBase](#charitybase)
     - [Twilio.org Rapid Response Kit](#twilioorg-rapid-response-kit)
+    - [Voluntarily](#voluntarily)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -314,3 +315,9 @@ A collection and combination of multiple different tools for all possible commun
 * rating: 3
 * license: MIT
 * [website](https://www.twilio.org/) | [repo](https://github.com/Twilio-org/rapid-response-kit)
+
+### Voluntarily
+Platform for volunteers and projects to find each other. Volunteers can include time, advice or physical things.
+* rating: 5
+* license: MPL-2.0
+* [website](https://live.voluntarily.nz/) | [repo](https://github.com/voluntarily/vly2)
