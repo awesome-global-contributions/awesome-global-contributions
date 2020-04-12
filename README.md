@@ -41,6 +41,7 @@ Table of Contents
     - [Oppia](#oppia-1)
     - [OptiKey](#optikey)
     - [SignDict](#signdict-1)
+    - [Ushahidi](#ushahidi)
   - [SDG 12: Responsible consumption and production](#sdg-12-responsible-consumption-and-production)
     - [Open Food Network](#open-food-network-1)
   - [SDG 14: Life below water](#sdg-14-life-below-water)
@@ -233,6 +234,13 @@ SignDict is a german dictionary for sign language using the GSL. Currently it ha
 * rating: 5
 * license: MPL-2.0
 * [website](https://signdict.org) | [repo](https://github.com/signdict/website)
+
+### Ushahidi
+A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form.
+This should help to give power to marginalized people.
+* rating: 3
+* license: GPL-3.0
+* [website](http://www.ushahidi.com) | [repo](https://github.com/ushahidi/Ushahidi_Web)
 
 ## SDG 12: Responsible consumption and production
 
