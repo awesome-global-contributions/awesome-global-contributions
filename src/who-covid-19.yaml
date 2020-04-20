@@ -1,0 +1,40 @@
+---
+repoUrl: 'https://github.com/WorldHealthOrganization/app'
+name: WHO COVID-19 App
+description: Official World Health Organization COVID-19 App
+websiteUrl: 'https://worldhealthorganization.github.io/app/'
+license: MIT
+sdgs:
+  - 3
+programmingLanguages:
+  - dart
+  - java
+  - ruby
+  - shell
+  - swift
+  - python
+  - kotlin
+  - objective-c
+rating: 5
+ratingComment: >-
+  WHO is a respectable world-wide organisation; this repo however, is currently
+  at the very start
+contributionGuidelinesUrl: "https://github.com/WorldHealthOrganization/app/blob\
+  /master/docs/CONTRIBUTING.md"
+logoUrl: ''
+starsUrl: "https://img.shields.io/github/stars/WorldHealthOrganization/app.svg?\
+  style=social&label=Star&maxAge=2592000"
+numberContributors:
+  url: 'https://api.github.com/repos/WorldHealthOrganization/app/contributors'
+  format: json
+  accessor: list
+otherLinks:
+  - name: Website
+    description: ''
+    link: 'https://worldhealthorganization.github.io/app/'
+frameworksUsed:
+  - Flutter
+  - ''
+licenseUrl: 'https://github.com/WorldHealthOrganization/app/blob/master/LICENSE'
+naturalLanguages:
+  - English
